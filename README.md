@@ -24,9 +24,9 @@ Pour ce cours, les outils communs suffisent.
 
 ### Design Web [hepl-dwt](https://github.com/hepl-dwt)
 
-Rien
+Rien.
 
-### Initiation à la programmation 
+### Initiation à la programmation
 
 _TODO_
 
@@ -42,7 +42,7 @@ _TODO_
 
 ### Réseaux & Serveurs [hepl-rsv](https://github.com/hepl-rsv)
 
-_TODO_
+Pour ce cours, en plus des outils communs, nous aurons besoin d'un [outil de virtualisation](./app/serveurs.md#Virtualisation), d'un [terminal](./app/divers.md#Terminal), et d'un [client FTP](./app/serveurs.md#FTP).
 
 ### Systèmes de gestion de contenu
 
@@ -58,6 +58,11 @@ _TODO_
 - Un interpréteur de commandes (peut être dans l’IDE)
 - Selon la disponibilité du système de fichiers exposé par le serveur Web, un client FTP.
 
+### Multimédia Interactif [hepl-mmi](https://github.com/hepl-mmi)
+
+- Un [serveur local](./app/serveurs.md#Serveurs) (statique la plupart du temps, dynamique pour l'un ou l'autre exercice)
+- Grunt (qui fera l'objet d'un cours dédié)
+
 ## Bloc 3
 
 ### Projets web [hepl-pw](https://github.com/hepl-pw)
@@ -69,10 +74,6 @@ Idem DCS, plus :
 
 
 ### Applications Internet Riches [hepl-ria](https://github.com/hepl-ria)
-
-_TODO_
-
-### Multimédia Interactif [hepl-mmi](https://github.com/hepl-mmi)
 
 _TODO_
 
