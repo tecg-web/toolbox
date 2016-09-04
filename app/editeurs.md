@@ -30,7 +30,13 @@ Le tableau suivant liste les packages _recommandés_ et _conseillés_ pour Atom.
 
 | Nom        | Description       | Intérêt       |
 | ---------- | ----------------- |:-------------:|
-| _TODO_     | _TODO_            | _TODO_        |
+| autoprefixer ([lien](https://atom.io/packages/autoprefixer)) | Ajoute automatiquement les _préfixes de compatibilité_ si nécéssaire en CSS | **recommandé** |
+| emmet ([lien](https://atom.io/packages/emmet)) | Raccourcis & outils pour accélérer l'écriture de HTML et CSS | **recommandé** |
+| linter ([lien](https://atom.io/packages/linter)) | Permet d'utiliser des _linters_ (analyse et conseils en temps réel sur le code) | **conseillé** |
+| linter-gadkod ([lien](https://atom.io/packages/linter-gadkod)) | Permet de trouver les caractères non-ASCII qui pourraient générer des erreurs dans le code | **conseillé** |
+| open-in-browser ([lien](https://atom.io/packages/open-in-browser)) | Ajoute une option pour ouvrir un fichier dans un navigateur, depuis l'arborescence des fichiers | **recommandé** |
+| w3c-validation ([lien](https://atom.io/packages/w3c-validation)) | Permet de valider les fichiers HTML et CSS directement depuis l'éditeur | **conseillé** |
+| html-outliner ([lien](https://atom.io/packages/html-outliner)) | Affiche les outlines de document HTML (similaire à l'extension **HeadingsMap** pour les navigateurs) | **conseillé** |
 
 ### Ressources
 
@@ -60,7 +66,13 @@ Par défaut, Sublime Text ne dispose pas de système de packages d'extension. Vo
 
 | Nom        | Description       | Intérêt       |
 | ---------- | ----------------- |:-------------:|
-| _TODO_     | _TODO_            | _TODO_        |
+| AdvancedNewFile | Ajoute quelques options au menu de clic-droit dans l'arborescence des fichiers | **recommandé** |
+| Autoprefixer | Ajoute automatiquement les _préfixes de compatibilité_ si nécéssaire en CSS | **recommandé** |
+| Emmet | Raccourcis & outils pour accélérer l'écriture de HTML et CSS | **recommandé** |
+| FindNonASCIICharacters | Permet de trouver les caractères non-ASCII qui pourraient générer des erreurs dans le code | **conseillé** |
+| MarkdownPreview | Affiche un rendu lisible d'un fichier texte au format markdown | **recommandé** |
+| SideBarEnhancements | Ajoute quelques options au menu de clic-droit dans l'arborescence des fichiers | **recommandé** |
+
 
 ### Ressources
 
