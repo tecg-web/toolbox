@@ -4,7 +4,7 @@ L'**éditeur de texte** est au _travailleur du web_ ce que le couteau Suisse est
 Et comme le couteau Suisse, l'éditeur de texte peut être très simple, mais aussi avoir plein d'outils adaptés pour faciliter la résolutions des petits problèmes de notre quotidien.
 
 Il existe littéralement des centaines d'éditeurs de texte : payants, gratuits, multi-plateforme ou non, minimalistes, jolis, moches, tout le monde peut y trouver son compte.  
-Dans le cadre de notre formation, nous vous conseillons de choisir entre deux éditeurs : [**Atom**](#atom) et [**Sublime Text**](#).  
+Dans le cadre de notre formation, nous vous conseillons de choisir entre deux éditeurs : [**Atom**](#atom) et [**Sublime Text**](#sublime-text).  
 
 Libre à vous de choisir l'un des deux (vous verrez que vos professeurs ont aussi leurs propres préférences à ce sujet), voire d'en choisir un autre, à votre guise.
 Soyez toutefois attentif au fait que, si vous choisissez un autre éditeur, vos professeurs ne sont pas là pour passer du temps à en résoufre les éventuels problèmes.
@@ -32,6 +32,12 @@ Le tableau suivant liste les packages _recommandés_ et _conseillés_ pour Atom.
 | ---------- | ----------------- |:-------------:|
 | _TODO_     | _TODO_            | _TODO_        |
 
+### Ressources
+
+* [Atom's Blog](http://blog.atom.io)
+* [Awesome Atom](https://github.com/mehcode/awesome-atom)
+* [Atom Editor Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHHf0w8uGu9NM8LPf498ZvL_)
+
 * * *
 
 ## Sublime Text
@@ -55,3 +61,9 @@ Par défaut, Sublime Text ne dispose pas de système de packages d'extension. Vo
 | Nom        | Description       | Intérêt       |
 | ---------- | ----------------- |:-------------:|
 | _TODO_     | _TODO_            | _TODO_        |
+
+### Ressources
+
+* [Sublime Blog](https://www.sublimetext.com/blog/)
+* [Sublime Text Mastery](https://laracasts.com/series/sublime-text-mastery)
+* [Sublime Text Bookmarks](https://github.com/dreikanter/sublime-bookmarks)
