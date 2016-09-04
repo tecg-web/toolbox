@@ -12,7 +12,7 @@ Soyez toutefois attentif au fait que, si vous choisissez un autre éditeur, vos 
 ## Atom
 
 **Site:** [atom.io](https://atom.io)  
-**Plateformes:** MacOS, Windows, Linux  
+**Plateformes:** Mac OS, Windows, Linux  
 **Prix:** Gratuit  
 **Sources:** Ouvertes  
 **Éditeur:** GitHub & sa communauté
@@ -49,7 +49,7 @@ Le tableau suivant liste les packages _recommandés_ et _conseillés_ pour Atom.
 ## Sublime Text
 
 **Site:** [sublimetext.com](https://www.sublimetext.com)  
-**Plateformes:** MacOS, Windows, Linux  
+**Plateformes:** Mac OS, Windows, Linux  
 **Prix:** Payant (±70$), avec version d'évaluation illimitée  
 **Sources:** Fermées  
 **Éditeur:** Sublime HQ Pty Ltd
