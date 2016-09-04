@@ -24,7 +24,7 @@ Pour ce cours, les outils communs suffisent.
 
 ### Design Web [hepl-dwt](https://github.com/hepl-dwt)
 
-_TODO_
+Rien
 
 ### Initiation à la programmation 
 
@@ -50,13 +50,23 @@ _TODO_
 
 ### Développement Côté Serveur [hepl-pwcs](https://github.com/hepl-pwcs)
 
-Pour ce cours, un [outil de virtualisation](./app/divers.md#Virtualisation) sera nécéssaire.
+- Un IDE [PhpStorm](https://www.jetbrains.com/phpstorm/)
+- Un serveur Web Apache avec PHP 7
+- SGBD Mysql
+- [Composer](http://www.getcomposer.org)
+- Git et un client Git (peut être dans l’IDE)
+- Un interpréteur de commandes (peut être dans l’IDE)
+- Selon la disponibilité du système de fichiers exposé par le serveur Web, un client FTP.
 
 ## Bloc 3
 
 ### Projets web [hepl-pw](https://github.com/hepl-pw)
 
-_TODO_
+Idem DCS, plus :
+
+- Gulp
+- Laravel Homestead (et tout ce qui va avec)
+
 
 ### Applications Internet Riches [hepl-ria](https://github.com/hepl-ria)
 
