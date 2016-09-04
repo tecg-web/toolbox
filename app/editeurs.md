@@ -9,7 +9,7 @@ Dans le cadre de notre formation, nous vous conseillons de choisir entre deux é
 Libre à vous de choisir l'un des deux (vous verrez que vos professeurs ont aussi leurs propres préférences à ce sujet), voire d'en choisir un autre, à votre guise.
 Soyez toutefois attentif au fait que, si vous choisissez un autre éditeur, vos professeurs ne sont pas là pour passer du temps à en résoufre les éventuels problèmes.
 
-## Atom
+## ![atom icon](http://flight-manual.atom.io/assets/images/favicon.ico) Atom
 
 **Site:** [atom.io](https://atom.io)  
 **Plateformes:** MacOS, Windows, Linux  
@@ -46,7 +46,7 @@ Le tableau suivant liste les packages _recommandés_ et _conseillés_ pour Atom.
 
 * * *
 
-## Sublime Text
+## ![sublime text icon](https://www.sublimetext.com/favicon.ico) Sublime Text
 
 **Site:** [sublimetext.com](https://www.sublimetext.com)  
 **Plateformes:** MacOS, Windows, Linux  
