@@ -14,7 +14,7 @@ Le présent repo a pour but de tenir une liste des applications nécéssaires po
 
 ## Outils communs
 
-Pour la grande majorité des cours, un [éditeur de texte](./app/editeurs.md), et une poignée de [navigateurs web](./app/navigateurs.md) sont un minimum. Une [documentation](./app/divers.md#Documentation) hors-ligne est également un outil précieux.
+Pour la grande majorité des cours, un [éditeur de texte](./app/editeurs.md), et une poignée de [navigateurs web](./app/navigateurs.md) sont un minimum. Une [documentation](./app/divers.md#documentation) hors-ligne est également un outil précieux.
 
 ## Bloc 1
 
@@ -42,7 +42,7 @@ _TODO_
 
 ### Réseaux & Serveurs [hepl-rsv](https://github.com/hepl-rsv)
 
-Pour ce cours, en plus des outils communs, nous aurons besoin d'un [outil de virtualisation](./app/serveurs.md#Virtualisation), d'un [terminal](./app/divers.md#Terminal), et d'un [client FTP](./app/serveurs.md#FTP).
+Pour ce cours, en plus des outils communs, nous aurons besoin d'un [outil de virtualisation](./app/serveurs.md#virtualisation), d'un [terminal](./app/divers.md#terminal), et d'un [client FTP](./app/serveurs.md#ftp).
 
 ### Systèmes de gestion de contenu
 
@@ -60,7 +60,7 @@ _TODO_
 
 ### Multimédia Interactif [hepl-mmi](https://github.com/hepl-mmi)
 
-- Un [serveur local](./app/serveurs.md#Serveurs) (statique la plupart du temps, dynamique pour l'un ou l'autre exercice)
+- Un [serveur local](./app/serveurs.md#serveurs) (statique la plupart du temps, dynamique pour l'un ou l'autre exercice)
 - Grunt (qui fera l'objet d'un cours dédié)
 
 ## Bloc 3
