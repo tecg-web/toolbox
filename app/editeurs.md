@@ -4,18 +4,18 @@ L'**éditeur de texte** est au _travailleur du web_ ce que le couteau Suisse est
 Et comme le couteau Suisse, l'éditeur de texte peut être très simple, mais aussi avoir plein d'outils adaptés pour faciliter la résolutions des petits problèmes de notre quotidien.
 
 Il existe littéralement des centaines d'éditeurs de texte : payants, gratuits, multi-plateforme ou non, minimalistes, jolis, moches, tout le monde peut y trouver son compte.  
-Dans le cadre de notre formation, nous vous conseillons de choisir entre deux éditeurs : **Atom** et **Sublime Text**.  
+Dans le cadre de notre formation, nous vous conseillons de choisir entre deux éditeurs : [**Atom**](#atom) et [**Sublime Text**](#).  
 
 Libre à vous de choisir l'un des deux (vous verrez que vos professeurs ont aussi leurs propres préférences à ce sujet), voire d'en choisir un autre, à votre guise.
 Soyez toutefois attentif au fait que, si vous choisissez un autre éditeur, vos professeurs ne sont pas là pour passer du temps à en résoufre les éventuels problèmes.
 
 ## Atom
 
-**Site:** [atom.io](http://atom.io)  
+**Site:** [atom.io](https://atom.io)  
 **Plateformes:** MacOS, Windows, Linux  
 **Prix:** Gratuit  
 **Sources:** Ouvertes  
-**Éditeur:** GitHub & sa communauté.
+**Éditeur:** GitHub & sa communauté
 
 > Atom is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.
 
@@ -33,3 +33,25 @@ Le tableau suivant liste les packages _recommandés_ et _conseillés_ pour Atom.
 | _TODO_     | _TODO_            | _TODO_        |
 
 * * *
+
+## Sublime Text
+
+**Site:** [sublimetext.com](https://www.sublimetext.com)  
+**Plateformes:** MacOS, Windows, Linux  
+**Prix:** Payant (±70$), avec version d'évaluation illimitée  
+**Sources:** Fermées  
+**Éditeur:** Sublime HQ Pty Ltd
+
+> Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
+
+Sublime Text est un éditeur léger et rapide, autant avec les petits fichiers que les très, très gros fichiers (il encaisse des millions de lignes sans broncher). Grâce à un système de packages ajouté par la communauté, les capacités de Sublime Text peuvent être augmentées et le rendre encore plus polyvalent.
+
+### Packages
+
+Par défaut, Sublime Text ne dispose pas de système de packages d'extension. Vous devez d'abord installer **Package Control** en [suivant les instructions](https://packagecontrol.io/installation) sur le [site dédié](https://packagecontrol.io).
+
+> Pour installer un package, il vous suffit d'utiliser la commande **Install Package**.
+
+| Nom        | Description       | Intérêt       |
+| ---------- | ----------------- |:-------------:|
+| _TODO_     | _TODO_            | _TODO_        |
