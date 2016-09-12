@@ -75,7 +75,9 @@ Idem DCS, plus :
 
 ### Applications Internet Riches [hepl-ria](https://github.com/hepl-ria)
 
-_TODO_
+Les outils habituels (éditeurs, navigateurs…), ainsi que :
+
+- [node.js](https://nodejs.org/en/) (préférez l'installeur de droite, la version _current_)
 
 * * *
 
