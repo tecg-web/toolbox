@@ -83,4 +83,12 @@ Les outils habituels (éditeurs, navigateurs…), ainsi que :
 
 ## Liens & ressources
 
+Nous allons essayer de regrouper liens & ressources utiles ici.
+
+### Liens
+
 _TODO_
+
+### Ressources
+
+* [dotfiles](./resources/dotfiles.md)
