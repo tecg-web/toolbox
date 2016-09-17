@@ -83,3 +83,35 @@ Il existe toutefois des applications spécifiques et plus performantes.
 **Prix:** Gratuit  
 **Sources:** Ouvertes  
 **Éditeur:** git & sa communauté
+
+## Client HTTP/REST
+
+L'essentiel (ou presque) du travail d'un développeur web est consulté *via* le protocole HTTP.
+
+S'il est relativement facile de tester ses requêtes avec la méthode `GET`, c'est tout de suite plus délicat avec les autres méthodes comme `POST`, `DELETE`, etc…
+
+L'utilisation d'un "client http", souvent appelé "client rest", simplifie le tout.
+
+### Insomnia
+
+**Site:** [insomnia.rest](https://insomnia.rest)  
+**Plateformes:** Mac OS, Windows, Linux  
+**Prix:** Gratuit  
+**Sources:** ???  
+**Éditeur:** Gregory Schier
+
+### Postman
+
+**Site:** [getpostman.com](https://www.getpostman.com)  
+**Plateformes:** Mac OS, (Windows & Linux *via* Google Chrome app)  
+**Prix:** Gratuit  
+**Sources:** ???  
+**Éditeur:** Postman Labs
+
+### Paw
+
+**Site:** [paw.cloud](https://paw.cloud)  
+**Plateformes:** Mac OS  
+**Prix:** Payant (démo disponible)  
+**Sources:** fermées  
+**Éditeur:** Paw Inc.
