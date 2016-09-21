@@ -81,9 +81,6 @@ Les outils habituels (éditeurs, navigateurs…), ainsi que :
 
 * * *
 
-## Ressources
+## Liens & ressources
 
-Nous allons essayer de regrouper liens & ressources utiles ici.
-
-* [dotfiles](./resources/dotfiles.md)
-* [Awesome lists](./resources/awesome.md)
+Une série de [liens](./links) et de [ressources](./resources) sont consultables sur ce repository, et sont les sources des données affichées sur [hepl-web.github.io](https://hepl-web.github.io).
