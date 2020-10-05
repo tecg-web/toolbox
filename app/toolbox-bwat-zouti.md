@@ -263,13 +263,15 @@ Lors du premier semestre de cours, il ne sera pas nécéssaire d’avoir d’aut
 
 #### HTML
 
-- La référence absolue pour le langage HTML est la spécification du langage HTML, [HTML5 Reference](https://dev.w3.org/html5/html-author/) du [W3C](https://fr.wikipedia.org/wiki/World_Wide_Web_Consortium) ("World Wide Web Consortium) : en cas de doute, c’est elle qui fait autorité ;
+- La référence absolue pour le langage HTML est la spécification du langage HTML, [HTML5 Reference](https://dev.w3.org/html5/html-author/) du [W3C](https://fr.wikipedia.org/wiki/World_Wide_Web_Consortium) (*World Wide Web Consortium*) : en cas de doute, c’est elle qui fait autorité ;
 
-- Celle du [WHATWG](https://fr.wikipedia.org/wiki/Web_Hypertext_Application_Technology_Working_Group) ("Web Hypertext Application Technology Working Group"), [HTML Living Standard](https://html.spec.whatwg.org/multipage/) présente les standards vivants ;
+- Celle du [WHATWG](https://fr.wikipedia.org/wiki/Web_Hypertext_Application_Technology_Working_Group) (*Web Hypertext Application Technology Working Group*), [HTML Living Standard](https://html.spec.whatwg.org/multipage/) présente les standards vivants ;
 
-- En français, pour les langages "_communs_", comme HTML, CSS & JavaScript, la meilleure source de documentation est la [MDN Web Docs](https://developer.mozilla.org/fr/) (Mozilla Developer Network ou MDN, est un site internet hébergé par la fondation Mozilla qui rassemble de la documentation sur les technologies du web). Pour le langage HTML, il s’agit de la [référence des éléments HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element).
+- En français, pour les langages "_communs_", comme HTML, CSS & JavaScript, la meilleure source de documentation est la [MDN Web Docs](https://developer.mozilla.org/fr/) (*Mozilla Developer Network* ou MDN, est un site internet hébergé par la fondation Mozilla qui rassemble de la documentation sur les technologies du web). Pour le langage HTML, il s’agit de la [référence des éléments HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element).
 
 #### CSS
+
+*TODO*
 
 ### Documentation hors ligne
 
@@ -278,7 +280,7 @@ Il existe deux applications super utiles pour télécharger et consulter de la d
 ### Dash
 
 **Site:** [kapeli.com/dash](https://kapeli.com/dash)  
-**Plateformes:** Mac OS  
+**Plateformes:** Mac OS & iOS 
 **Prix:** Payant (±25$), version gratuite (avec publicité) disponible  
 **Sources:** Fermées  
 **Éditeur:** Kapeli
@@ -312,7 +314,6 @@ En version papier, les références sont publiées aux Éditions O'Reilly.
 
 ## Références et lectures complémentaires
 
-- [Les bons outils pour commencer à intégrer votre site web](http://www.alsacreations.com/article/lire/1205-outils-integration-web-debuter.html) sur le site d'Alsacréarions ;
-- [Firebug et le débogage d’une page web](http://www.alsacreations.com/article/lire/1215-firebug-debug-debogage-web-extension.html) sur le site d'Alsacréarions ;
-- [Firebug : une merveille de plus pour Firefox](http://fr.openclassrooms.com/informatique/cours/firebug-une-merveille-de-plus-pour-firefox) sur le site d'Openclassrooms ;
+- [Les bons outils pour commencer à intégrer votre site web](http://www.alsacreations.com/article/lire/1205-outils-integration-web-debuter.html) sur le site d'Alsacréations ;
+- [Firebug et le débogage d’une page web](http://www.alsacreations.com/article/lire/1215-firebug-debug-debogage-web-extension.html) sur le site d'Alsacréations ;
 - [Emmet Documentation](http://docs.emmet.io/actions/)
