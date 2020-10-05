@@ -50,7 +50,7 @@ Procédure détaillée :
 Les extensions potentiellement les plus utiles pour débuter sont :
 
 - **Side Bar Enhancements**
-	- https://youtu.be/ZVLXLGcaJ0Q
+	- [Screencast explicatif](https://youtu.be/ZVLXLGcaJ0Q)
 	- Le menu latéral *(side bar)* liste les dossiers et fichiers contenus dans le dossier qu’on a ouvert ;
 	- Sidebar Enhancements ajoute des options au menu de clic-droit dans l'arborescence des fichiers : permet, quand on choisit un fichier  dans la *side bar*, d’avoir un menu contextuel plus complet avec, notamment, l’option `open in browser`, qui permet d’ouvrir directement le fichier dans un navigateur sans devoir quitter ST. (N.B. On peut chosir le navigateur avec lequel ST va ouvrir le fichier en modifiant les préférences de ST, voir plus loin).
 	- Installation : 
@@ -61,7 +61,7 @@ Les extensions potentiellement les plus utiles pour débuter sont :
 	  - la *side bar* s’ouvre directement au démarrage de ST dès lors qu’on ouvre un dossier contenant plusieurs fichiers ;
 	  - Sinon, dans le menu, choisir l’option `View` > `Side Bar`> `Show Side Bar`
 - **Markdown Preview**
-	- https://youtu.be/ENQaeewVSOc
+	- [Screencast explicatif](https://youtu.be/ENQaeewVSOc)
 	- Permet d’afficher des fichiers balisés en markdown dans un navigateur (cette extension exporte le fichier markdown ouvert en HTML et l’ouvre directement dans le navigateur)
 	- Installation :
 	  1. `CTRL`+`MAJ`+`P`
@@ -72,14 +72,14 @@ Les extensions potentiellement les plus utiles pour débuter sont :
 	  2. `CTRL`+`MAJ`+`P`
 	  3. Taper *« markdown »* => choisir `Markdown Preview: Preview in Browser` puis `markdown`dans la 2e liste fournie
 - **All Auto Complete**
-	* https://youtu.be/GJEbbWmX43c
+	* [Screencast explicatif](https://youtu.be/GJEbbWmX43c)
 	* Permet d’étendre l’auto-complétion au-delà des symboles qui sont présents dans le fichier courant.
 	* Installation : 
 		1. `CTRL`+`MAJ`+`P`
 		2. Taper *« instal »* => choisir `Package Control: Install Package`
 		3. Taper *« complete »* => choisir `All Auto Complete`
 - **Emmet**
-	* https://youtu.be/TEs2LE0fl10
+	* [Screencast explicatif](https://youtu.be/TEs2LE0fl10)
 	* Permet d’utiliser des raccourcis et des alias, voir [Emmet Sheat Sheet](http://docs.emmet.io/cheat-sheet/))
 	* Installation : 
 		1. `CTRL`+`MAJ`+`P`
@@ -107,7 +107,7 @@ Les extensions potentiellement les plus utiles pour débuter sont :
 		  
 ## 2. Changer les préférences générales de ST
 
-​	https://youtu.be/R_g_ijJ5Bq4
+​	[Screencast explicatif](https://youtu.be/R_g_ijJ5Bq4)
 
 1. Récupérer les préférences par défaut de ST pour pouvoir les modifier :
 	* Choisir dans le menu `Sublime Text`> `Preferences` > `Settings - Default`
@@ -124,7 +124,7 @@ Les extensions potentiellement les plus utiles pour débuter sont :
 				
 ## 3. Changer les préférences d’un package installé
 
-https://youtu.be/i8TkCDdYxtk
+[Screencast explicatif](https://youtu.be/i8TkCDdYxtk)
 
 Il s’agit de la même procédure que pour changer les préférences générales de ST, si ce n’est qu’on modifie cette fois le fichier *Settings - User* du package souhaité (par exemple *Side Bar*) qui se trouve dans *Package Settings*, et non plus le fichier *Settings - User*  de ST (qui se trouvait dans *Preferences*).
 
