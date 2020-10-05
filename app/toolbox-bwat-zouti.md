@@ -33,10 +33,10 @@ Libre à vous de choisir l’un des deux (vous verrez que vos professeurs ont au
 
 Soyez toutefois attentif au fait que, si vous choisissez un autre éditeur, vos professeurs ne sont pas là pour passer du temps à en résoudre les éventuels problèmes.
 
-Deux autres bons éditeurs de texte gratuits, parmi d’autres, sont : 
+Trois autres bons éditeurs de texte, parmi d’autres, sont : 
 
-* [Brackets](http://brackets.io/) ;
-* [Visual Studio Code](https://code.visualstudio.com), qui est plus récent, et qui peut être personnalisé à souhait. Comme le montre ce tutoriel proposé par [Frontend Masters Courses](https://frontendmasters.com/courses/visual-studio-code/) ;
+* [Brackets](http://brackets.io/) (gratuit) ;
+* [Visual Studio Code](https://code.visualstudio.com) (gratuit), qui est plus récent, et qui peut être personnalisé à souhait. Comme le montre ce tutoriel proposé par [Frontend Masters Courses](https://frontendmasters.com/courses/visual-studio-code/) ;
 * Enfin, il existe aussi [PhpStorm](https://www.jetbrains.com/phpstorm/). Celui-ci est payant, toutefois il est compris gratuitement dans le [GitHub Student Developer Pack](https://education.github.com/pack). Ce sera l'éditeur de prédilection pour les cours de l’orientation Web en Bac 2.
 
 Ces outils embarquent généralement un système de plugins qui permettent d’étendre leurs capacités. 
