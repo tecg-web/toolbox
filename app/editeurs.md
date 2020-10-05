@@ -4,9 +4,11 @@ L'**éditeur de texte** est au _travailleur du web_ ce que le couteau Suisse est
 Et comme le couteau Suisse, l'éditeur de texte peut être très simple, mais aussi avoir plein d'outils adaptés pour faciliter la résolutions des petits problèmes de notre quotidien.
 
 Il existe littéralement des centaines d'éditeurs de texte : payants, gratuits, multi-plateforme ou non, minimalistes, jolis, moches, tout le monde peut y trouver son compte.  
+
 Dans le cadre de notre formation, nous vous conseillons de choisir entre deux éditeurs : [**Atom**](#atom) et [**Sublime Text**](#sublime-text).  
 
 Libre à vous de choisir l'un des deux (vous verrez que vos professeurs ont aussi leurs propres préférences à ce sujet), voire d'en choisir un autre, à votre guise.
+
 Soyez toutefois attentif au fait que, si vous choisissez un autre éditeur, vos professeurs ne sont pas là pour passer du temps à en résoufre les éventuels problèmes.
 
 ## Atom
