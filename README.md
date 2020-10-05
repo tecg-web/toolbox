@@ -8,21 +8,21 @@
 
 * * *
 
-Quand bien même votre seul outil _physique_ est votre ordinateur, les vrais outils du travailleur du web sont les applications qu'il utilise quotidiennement pour accomplir ses tâches.
+Quand bien même votre seul outil _physique_ est votre ordinateur, les vrais outils du travailleur du web sont les applications qu’il utilise quotidiennement pour accomplir ses tâches.
 
 Le présent repo a pour but de tenir une liste des applications nécéssaires pour chaque cours de votre programme.
 
 ## Outils communs
 
-Pour la grande majorité des cours, un éditeur de texte, et des navigateurs web sont un minimum. Une documentation hors-ligne est également un outil précieux. Ces outils sont listés dans le document [toolbox - bwat zouti](./app/toolbox-bwat-zouti.md).
+Pour la grande majorité des cours, un éditeur de texte, et des navigateurs web sont un minimum. Une documentation hors-ligne est également un outil précieux. Ces outils sont listés dans le document [bwat zouti](./app/toolbox-bwat-zouti.md).
 
-Quelques [outils divers](./app/divers.md#documentation) pourront également s'avérer utiles pour la suite.
+Quelques [outils divers](./app/divers.md#documentation) pourront également s’avérer utiles pour la suite.
 
 ## Bloc 1
 
 ### Création de pages Web [hepl-cpw](https://github.com/hepl-cpw)
 
-Pour ce cours, les outils communs listés dans le document [toolbox - bwat zouti](./app/toolbox-bwat-zouti.md) suffisent.
+Pour ce cours, les outils communs listés dans le document [bwat zouti](./app/toolbox-bwat-zouti.md) suffisent.
 
 ### Design Web [hepl-dwt](https://github.com/hepl-dwt)
 
