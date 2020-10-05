@@ -1,4 +1,4 @@
-#INSTALLER SUBLIME TEXT 3
+# INSTALLER SUBLIME TEXT 3
 
 * * *
 
@@ -6,7 +6,7 @@
 
 * * *
 
-##1. Télécharger ST3
+## 1. Télécharger ST3
 Rendez-vous sur le site de Sublime Text : [http://www.sublimetext.com](http://www.sublimetext.com). Au début octobre 2020, le numéro de la version la plus récente est *3211*. 
 
 Le logiciel est disponible en version d’évaluation sans limite de temps. Si vous l’utilisez professionnellement, payer la modique licence est un must. Si vous ne payez la licence, une boite de dialogue vous interrompera très occasionnellement lors de vos sauvegardes pour vous rappeler de faire l’achat.
@@ -14,10 +14,10 @@ Le logiciel est disponible en version d’évaluation sans limite de temps. Si v
 - Pour ⊞ Windows : cliquer sur le lien [Windows](https://download.sublimetext.com/Sublime%20Text%20Build%203211%20Setup.exe) => *Sublime Text Build 3211 Setup.exe*
 - Pour  Mac : cliquer sur le lien [OS X](https://download.sublimetext.com/Sublime%20Text%20Build%203211.dmg) => *Sublime Text Build 3211.dmg*
 
-##2. Installer ST3
+## 2. Installer ST3
 Exécuter le fichier .exe récupéré (double-cliquer dessus) ou ouvrez l’image .dmg et glissez l’icône de *Sublime Text* sur l’icône du dossier *Applications* 
 
-#CONFIGURER SUBLIME TEXT 3
+# CONFIGURER SUBLIME TEXT 3
 
 Une [documentation non officielle](https://docs.sublimetext.io) maintenue par la communauté et validée et hébergée par le créateur du logiciel, explique très en détail les customisations possibles.
 
@@ -27,13 +27,13 @@ Une grand nombre d’opérations de ST sont réalisables via la palette de comma
 
 ## 1. Installer des packages (procédure générale)
 
-###1.1. Voir la liste des packages disponibles
+### 1.1. Voir la liste des packages disponibles
 
 1. `CTRL`+`MAJ`+`P` pour avoir la liste des commandes disponibles
 2. Taper *« list »* => choisir `Package Control: List Packages`
 3. On voit apparaître la fenêtre de *Package Control* avec, dedans, la liste des packages installés
 
-###1.2. Installer un package
+### 1.2. Installer un package
 
 La procédure est la même pour tous les packages qu’on souhaite installer.
 On utilise la commande `Package Control: install Package` de ST et on choisit dans la liste le package qu’on souhaite installer.
@@ -45,7 +45,7 @@ Procédure détaillée :
 3. On voit apparaître la fenêtre de *Package Control* avec, dedans, la liste des packages non encore installés, qu’on peut donc installer
 3. Taper un des mots constituant le nom du package qu’on veut installer => il le propose dans la liste => le choisir, il l’installe. Ça peut prendre quelques secondes. La barre de statut en bas de la fenêtre vous montre l’activité de téléchargement et d’installation en cours.
 
-###1.3. Quelques packages intéressants pour démarrer dans la création de pages Web
+### 1.3. Quelques packages intéressants pour démarrer dans la création de pages Web
 
 Les extensions potentiellement les plus utiles pour débuter sont :
 
@@ -105,7 +105,7 @@ Les extensions potentiellement les plus utiles pour débuter sont :
 	* Ajoute quelques options au menu de clic-droit dans l'arborescence des fichiers
 - **etc.**
 		  
-##2. Changer les préférences générales de ST
+## 2. Changer les préférences générales de ST
 
 ​	https://youtu.be/R_g_ijJ5Bq4
 
@@ -122,7 +122,7 @@ Les extensions potentiellement les plus utiles pour débuter sont :
 		- Passage à la ligne : `CTRL`+F : wrap => "word_wrap": "true",
 		- Convertir TAB en espaces : `CTRL`+F : translate => "translate_tabs_to_spaces": true
 				
-##3. Changer les préférences d’un package installé
+## 3. Changer les préférences d’un package installé
 
 https://youtu.be/i8TkCDdYxtk
 
@@ -144,7 +144,7 @@ En détail, cela donne dans ce cas :
 		- Changer navigateur par défaut : `CTRL`+F : browser => "default_browser": "firefox"
 
 
-##4. Quelques raccourcis utiles
+## 4. Quelques raccourcis utiles
 
 1. `CTRL`+ `S`
 	
@@ -225,4 +225,3 @@ En détail, cela donne dans ce cas :
 * [Sublime Blog](https://www.sublimetext.com/blog/)
 * [Sublime Text Mastery](https://laracasts.com/series/sublime-text-mastery)
 * [Sublime Text Bookmarks](https://github.com/dreikanter/sublime-bookmarks)
-
