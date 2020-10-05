@@ -23,11 +23,11 @@ Vous avez peut-être déjà entendu parler de programmes *WYSIWYG* (*« What yo
 
 L’**éditeur de texte** est au _travailleur du web_ ce que le couteau Suisse est à MacGyver.  
 
-Et comme le couteau Suisse, l’éditeur de texte peut être très simple, mais aussi avoir plein d’outils adaptés pour faciliter la résolutions des petits problèmes de notre quotidien.
+Et comme le couteau Suisse, l’éditeur de texte peut être très simple, mais aussi avoir plein d’outils adaptés pour faciliter la résolution des petits problèmes de notre quotidien.
 
 Il existe des centaines d'éditeurs de texte : payants, gratuits, multi-plateforme ou non, minimalistes, jolis, moches, tout le monde peut y trouver son compte.  
 
-Dans le cadre de notre formation, nous vous conseillons de choisir entre deux éditeurs : [Sublime Text](http://www.sublimetext.com) ou [Atom](https://atom.io).  
+Dans le cadre du démarrage de votre formation, nous vous conseillons de choisir entre deux éditeurs : [Sublime Text](http://www.sublimetext.com) ou [Atom](https://atom.io).
 
 Libre à vous de choisir l’un des deux (vous verrez que vos professeurs ont aussi leurs propres préférences à ce sujet), voire d’en choisir un autre, à votre guise.
 
@@ -35,11 +35,10 @@ Soyez toutefois attentif au fait que, si vous choisissez un autre éditeur, vos 
 
 Deux autres bons éditeurs de texte gratuits, parmi d’autres, sont : 
 
-* [Brakets](http://brackets.io/)
-* [Visual Studio](https://visualstudio.microsoft.com/fr/)
+* [Brackets](http://brackets.io/)
+* [Visual Studio Code](https://code.visualstudio.com)
 
-Ces outils embarquent généralement un système de plugins qui permettent d’étendre leurs capacités. Dans le cadre du cours de première année, vous n’aurez pas besoin de beaucoup de plugins supplémentaires. Cependant, les plugins suivants pourront vous être utiles.
-
+Ces outils embarquent généralement un système de plugins qui permettent d’étendre leurs capacités. 
 
 ## Sublime Text
 
@@ -51,13 +50,15 @@ Ces outils embarquent généralement un système de plugins qui permettent d’�
 
 > Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
 
-Sublime Text est payant, mais il bénéficie d’un mode démo d’une durée illimitée, qui vous interrompt de temps à autre par un * petit message de publicité.
+Sublime Text est payant, mais il bénéficie d’un mode démo d’une durée illimitée, qui vous interrompt de temps à autre.
 
 C’est un éditeur léger et rapide, autant avec les petits fichiers que les très, très gros fichiers (il encaisse des millions de lignes sans broncher). Grâce à un système de packages ajouté par la communauté, les capacités de Sublime Text peuvent être augmentées et le rendre encore plus polyvalent.
 
 ### Extensions Sublime Text
 
-La première extension que vous devez installer préalablement est l’extension **Package Control**. Il s’agit d’une extension qui, comme son  nom l’indique, permet d’installer d’autres packages par la suite.
+La première extension que vous devez installer préalablement est **Package Control**. Comme son nom l’indique, il permet d’installer d’autres packages par la suite.
+
+Dans le cadre du cours de première année, vous n’aurez pas besoin de beaucoup de packages supplémentaires. Cependant, voici une liste des packages qui pourront vous être utiles.
 
 Le tableau suivant liste les packages _recommandés_ et _conseillés_ pour Sublime Text.
 
@@ -159,10 +160,11 @@ Utilisez le petit moteur de recherche pour installer les extensions suivantes (o
 | ---------- | ---------- |----------------- |:-------------:|
 | HeadingsMap ([lien](https://addons.mozilla.org/fr/firefox/addon/headingsmap/)) | Rumoroso        | Affiche les outlines (structure des titres) d’un document HTML | **recommandé** |
 | Web Developer ([lien](https://addons.mozilla.org/fr/firefox/addon/web-developer/)) | chrispederick        | Ajoute une barre d'outils utiles pour les développeurs web | **recommandé** |
-| Total Validator ([lien](https://www.totalvalidator.com/downloads/extension.html) |         | Outil de validation du code HTML, vérificateur de liens brisés, vérification de l'accessibilité des pages (WCAG priorité 1 à 3) en accord avec les Directives pour l'Accessibilité aux Contenus Web. Nécessite une application séparée. | **recommandé** |
+| Total Validator ([lien](https://www.totalvalidator.com/downloads/extension.html)) |         | Outil de validation du code HTML, vérificateur de liens brisés, vérification de l'accessibilité des pages (WCAG priorité 1 à 3) en accord avec les Directives pour l'Accessibilité aux Contenus Web. Nécessite une application séparée. | **recommandé** |
+| WCAG Contrast checker ([lien](https://addons.mozilla.org/fr/firefox/addon/wcag-contrast-checker/)) | Rumoroso  | Vérifie la conformité des niveaux de contraste entre les couleurs d’avant-plan et d'arrière-plan en fonction des exigences de WCAG 2.1 | _conseillé_ |
+| WAVE Accessibility Extension ([lien](https://addons.mozilla.org/en-US/firefox/addon/wave-accessibility-tool/)) | WebAIM  | Permet d'évaluer l'accessibilité d'une page Web. Lorsqu'elle est activée, l'extension WAVE injecte des icônes et des indicateurs dans votre page pour donner un retour sur l'accessibilité et en faciliter l’audit. | _conseillé_ |
 | ColorZilla ([lien](https://addons.mozilla.org/fr/firefox/addon/colorzilla/)) | Alex Sirota  | Pipette avancée, sélecteur de couleur, générateur de dégradé et autres outiles pour les couleurs | _conseillé_ |
 | Font Finder ([lien](https://addons.mozilla.org/fr/firefox/addon/font-inspect/)) | Andy Portmen, Eric Caron  | Un inspecteur de polices facile à utiliser pour obtenir les styles CSS de l'élément sélectionné | _conseillé_ |
-| WCAG Contrast checker ([lien](https://addons.mozilla.org/fr/firefox/addon/wcag-contrast-checker/)) | Rumoroso  | Vérifie la conformité des niveaux de contraste entre les couleurs d’avant-plan et d'arrière-plan en fonction des exigences de WCAG 2.1 | _conseillé_ |
 | Measure-it ([lien](https://addons.mozilla.org/fr/firefox/addon/measure-it/)) | Trishul  | Dessine une règle sur n'importe quelle page Web pour vérifier la largeur, la hauteur ou l'alignement des éléments de la page en pixels| _conseillé_ |
 | All-In-One PageSpeed Test ([lien](https://addons.mozilla.org/fr/firefox/addon/all-in-one-pagespeed-test/)) | Evgeniy Orlov  | Teste les performances de n'importe quel site Web avec les principaux outils de test en un seul clic : GTmetrix (GooglePageSpeed Insights et Yahoo Yslow), Yellow Lab Tools, …| **recommandé** |
 
