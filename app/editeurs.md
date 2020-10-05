@@ -9,7 +9,7 @@ Dans le cadre de notre formation, nous vous conseillons de choisir entre deux é
 
 Libre à vous de choisir l'un des deux (vous verrez que vos professeurs ont aussi leurs propres préférences à ce sujet), voire d'en choisir un autre, à votre guise.
 
-Soyez toutefois attentif au fait que, si vous choisissez un autre éditeur, vos professeurs ne sont pas là pour passer du temps à en résoufre les éventuels problèmes.
+Soyez toutefois attentif au fait que, si vous choisissez un autre éditeur, vos professeurs ne sont pas là pour passer du temps à en résoudre les éventuels problèmes.
 
 ## Atom
 
