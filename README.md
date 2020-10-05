@@ -14,13 +14,15 @@ Le présent repo a pour but de tenir une liste des applications nécéssaires po
 
 ## Outils communs
 
-Pour la grande majorité des cours, un [éditeur de texte](./app/editeurs.md), et une poignée de [navigateurs web](./app/navigateurs.md) sont un minimum. Une [documentation](./app/divers.md#documentation) hors-ligne est également un outil précieux.
+Pour la grande majorité des cours, un éditeur de texte, et des navigateurs web sont un minimum. Une documentation hors-ligne est également un outil précieux. Ces outils sont listés dans le document [toolbox - bwat zouti](./app/toolbox-bwat-zouti.md).
+
+Quelques [outils divers](./app/divers.md#documentation) pourront également s'avérer utiles pour la suite.
 
 ## Bloc 1
 
 ### Création de pages Web [hepl-cpw](https://github.com/hepl-cpw)
 
-Pour ce cours, les outils communs suffisent.
+Pour ce cours, les outils communs listés dans le document [toolbox - bwat zouti](./app/toolbox-bwat-zouti.md) suffisent.
 
 ### Design Web [hepl-dwt](https://github.com/hepl-dwt)
 
