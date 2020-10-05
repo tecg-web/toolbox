@@ -1,27 +1,5 @@
 # hepl-web/toolbox - Divers
 
-## Documentation
-
-Pour les langages "_communs_", comme HTML, CSS & JavaScript, la meilleure source de documentation est la [MDN](https://developer.mozilla.org/fr/). Pour les autres langages, le site officiel de chacun est souvent la meilleure référence.
-
-Il existe deux applications super utiles pour télécharger et consulter de la documentation hors-ligne.
-
-### Dash
-
-**Site:** [kapeli.com/dash](https://kapeli.com/dash)  
-**Plateformes:** Mac OS  
-**Prix:** Payant (±25$), version gratuite (avec publicité) disponible  
-**Sources:** Fermées  
-**Éditeur:** Kapeli
-
-### Zeal
-
-**Site:** [zealdocs.org](https://zealdocs.org)  
-**Plateformes:** Windows, Linux  
-**Prix:** Gratuit  
-**Sources:** Ouvertes  
-**Éditeur:** Oleg Shparber & contributeurs
-
 ## Systèmes de gestion de versions
 
 Bien qu'il en existe d'autres, **git** est le système de gestion de versions le plus répandu et celui que nous utiliserons en cours.  
