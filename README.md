@@ -10,13 +10,15 @@
 
 Quand bien même votre seul outil _physique_ est votre ordinateur, les vrais outils du travailleur du web sont les applications qu’il utilise quotidiennement pour accomplir ses tâches.
 
-Le présent repo a pour but de tenir une liste des applications nécéssaires pour chaque cours de votre programme.
+Le présent repo a pour but de tenir une liste des applications nécessaires pour chaque cours de votre programme.
 
 ## Outils communs
 
-Pour la grande majorité des cours, un éditeur de texte, et des navigateurs web sont un minimum. Une documentation hors-ligne est également un outil précieux. Ces outils sont listés dans le document [bwat zouti](./app/toolbox-bwat-zouti.md).
+Pour la grande majorité des cours, un éditeur de texte et des navigateurs web sont un minimum. Une documentation hors-ligne est également un outil précieux. Ces outils sont listés dans le document [bwat zouti](./app/toolbox-bwat-zouti.md).
 
-Quelques [outils divers](./app/divers.md#documentation) pourront également s’avérer utiles pour la suite.
+Quelques [outils supplémentaires](./app/divers.md) pourront également s’avérer utiles pour la suite.
+
+Si vous utilisez un Mac, il est recommandé d’utiliser [Brew](https://brew.sh) pour vos installations des applications.
 
 ## Bloc 1
 
@@ -26,7 +28,7 @@ Pour ce cours, les outils communs listés dans le document [bwat zouti](./app/to
 
 ### Design Web [hepl-dwt](https://github.com/hepl-dwt)
 
-Rien.
+Cours théorique, donc rien
 
 ### Initiation à la programmation
 
@@ -44,7 +46,7 @@ _TODO_
 
 ### Réseaux & Serveurs [hepl-rsv](https://github.com/hepl-rsv)
 
-Pour ce cours, en plus des outils communs, nous aurons besoin d'un [outil de virtualisation](./app/serveurs.md#virtualisation), d'un [terminal](./app/divers.md#terminal), et d'un [client FTP](./app/serveurs.md#ftp).
+Pour ce cours, en plus des outils communs, nous aurons besoin d’un [outil de virtualisation](./app/serveurs.md#virtualisation), d'un [terminal](./app/divers.md#terminal), et d'un [client FTP](./app/serveurs.md#ftp).
 
 ### Systèmes de gestion de contenu
 
@@ -53,8 +55,8 @@ _TODO_
 ### Développement Côté Serveur [hepl-pwcs](https://github.com/hepl-pwcs)
 
 - Un IDE [PhpStorm](https://www.jetbrains.com/phpstorm/)
-- Un serveur Web Apache avec PHP 7
-- SGBD Mysql
+- PHP
+- SQLITE
 - [Composer](http://www.getcomposer.org)
 - Git et un client Git (peut être dans l’IDE)
 - Un interpréteur de commandes (peut être dans l’IDE)
@@ -62,24 +64,19 @@ _TODO_
 
 ### Multimédia Interactif [hepl-mmi](https://github.com/hepl-mmi)
 
-- Un [serveur local](./app/serveurs.md#serveurs) (statique la plupart du temps, dynamique pour l'un ou l'autre exercice)
-- Grunt (qui fera l'objet d'un cours dédié)
+- Un IDE [PhpStorm](https://www.jetbrains.com/phpstorm/)
+- [NodeJS + npm](https://nodejs.org/en/), préférez l’installeur current
+- Git et un client Git (peut être dans l’IDE)
+- Un interpréteur de commandes (peut être dans l’IDE)
+- Selon la disponibilité du système de fichiers exposé par le serveur Web, un client FTP.
 
 ## Bloc 3
 
 ### Projets web [hepl-pw](https://github.com/hepl-pw)
 
-Idem DCS, plus :
+_TODO_
 
-- Gulp
-- Laravel Homestead (et tout ce qui va avec)
-
-
-### Applications Internet Riches [hepl-ria](https://github.com/hepl-ria)
-
-Les outils habituels (éditeurs, navigateurs…), ainsi que :
-
-- [node.js](https://nodejs.org/en/) (préférez l'installeur de droite, la version _current_)
+### Développement d’applications mobiles [hepl-dam](https://github.com/hepl-dam)
 
 * * *
 

@@ -25,7 +25,7 @@ L’**éditeur de texte** est au _travailleur du web_ ce que le couteau Suisse e
 
 Et comme le couteau Suisse, l’éditeur de texte peut être très simple, mais aussi avoir plein d’outils adaptés pour faciliter la résolution des petits problèmes de notre quotidien.
 
-Il existe des centaines d'éditeurs de texte : payants, gratuits, multi-plateforme ou non, minimalistes, jolis, moches, tout le monde peut y trouver son compte.  
+Il existe des centaines d’éditeurs de texte : payants, gratuits, multiplateforme ou non, minimalistes, jolis, moches, tout le monde peut y trouver son compte.  
 
 Dans le cadre du démarrage de votre formation, nous vous conseillons de choisir entre deux éditeurs : [Sublime Text](http://www.sublimetext.com) ou [Atom](https://atom.io).
 
@@ -37,17 +37,17 @@ Trois autres bons éditeurs de texte, parmi d’autres, sont :
 
 * [Brackets](http://brackets.io/) (gratuit) ;
 * [Visual Studio Code](https://code.visualstudio.com) (gratuit), qui est plus récent, et qui peut être personnalisé à souhait. Comme le montre ce tutoriel proposé par [Frontend Masters Courses](https://frontendmasters.com/courses/visual-studio-code/) ;
-* Enfin, il existe aussi [PhpStorm](https://www.jetbrains.com/phpstorm/). Celui-ci est payant, toutefois il est compris gratuitement dans le [GitHub Student Developer Pack](https://education.github.com/pack). Ce sera l'éditeur de prédilection pour les cours de l’orientation Web en Bac 2.
+* Enfin, il existe aussi [PhpStorm](https://www.jetbrains.com/phpstorm/). Celui-ci est payant, toutefois il est compris gratuitement dans le [GitHub Student Developer Pack](https://education.github.com/pack). Ce sera l’éditeur de prédilection pour les cours de l’orientation Web en Bac 2.
 
 Ces outils embarquent généralement un système de plugins qui permettent d’étendre leurs capacités. 
 
 ## Sublime Text
 
-**Site:** [sublimetext.com](https://www.sublimetext.com)  
-**Plateformes:** Mac OS, Windows, Linux  
-**Prix:** Payant, avec version d'évaluation illimitée  
-**Sources:** Fermées  
-**Éditeur:** Sublime HQ Pty Ltd
+**Site :** [sublimetext.com](https://www.sublimetext.com)
+**Plateformes :** Mac OS, Windows, Linux
+**Prix :** Payant, avec version d’évaluation illimitée
+**Sources :** Fermées
+**Éditeur :** Sublime HQ Pty Ltd
 
 > Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
 
@@ -63,19 +63,19 @@ Dans le cadre du cours de première année, vous n’aurez pas besoin de beaucou
 
 Le tableau suivant liste les packages _recommandés_ et _conseillés_ pour Sublime Text.
 
-> Pour installer un package, il vous suffit d'utiliser la commande **Install Package**.
+> Pour installer un package, il vous suffit d’utiliser la commande **Install Package**.
 
 | Nom        | Description       | Intérêt       |
 | ---------- | ----------------- |:-------------:|
-| AdvancedNewFile | Ajoute quelques options au menu de clic-droit dans l'arborescence des fichiers | **recommandé** |
+| AdvancedNewFile | Ajoute quelques options au menu de clic-droit dans l’arborescence des fichiers | **recommandé** |
 | All Auto Complete | Permet de faire de l’auto-complétion | **recommandé** |
-| Autoprefixer | Ajoute automatiquement les _préfixes de compatibilité_ si nécéssaire en CSS | **recommandé** |
-| Emmet | Permet d’utiliser des raccourcis & outils pour accélérer l'écriture de HTML et CSS, voir [Emmet Sheat Sheet](http://docs.emmet.io/cheat-sheet/) | **recommandé** |
+| Autoprefixer | Ajoute automatiquement les _préfixes de compatibilité_ si nécessaire en CSS | **recommandé** |
+| Emmet | Permet d’utiliser des raccourcis & outils pour accélérer l’écriture de HTML et CSS, voir [Emmet Cheat Sheet](http://docs.emmet.io/cheat-sheet/) | **recommandé** |
 | FindNonASCIICharacters | Permet de trouver les caractères non-ASCII qui pourraient générer des erreurs dans le code | _conseillé_ |
-| MarkdownPreview | Affiche un rendu lisible d'un fichier texte au format markdown | **recommandé** |
-| SideBarEnhancements | Ajoute dans un menu latéral la liste des fichiers cotenus dans le dossier qu’on a ouvert ainsiq que des options au menu de clic-droit dans l'arborescence des fichiers | **recommandé** |
+| MarkdownPreview | Affiche un rendu lisible d’un fichier texte au format markdown | **recommandé** |
+| SideBarEnhancements | Ajoute dans un menu latéral la liste des fichiers contenus dans le dossier qu’on a ouvert ainsi que des options au menu de clic-droit dans l’arborescence des fichiers | **recommandé** |
 
-Pour une aide plus détaillée à l'installation et la configuration de Sublime Text, je vous renvoie au document suivant : [**Installer et configurer Sublime Text 3**](./installer-SublimeText3.md).
+Pour une aide plus détaillée à l’installation et la configuration de Sublime Text, on vous renvoie au document suivant : [**Installer et configurer Sublime Text**](./installer-SublimeText.md).
 
 
 ### Ressources
@@ -89,33 +89,33 @@ Pour une aide plus détaillée à l'installation et la configuration de Sublime 
 
 ## Atom
 
-**Site:** [atom.io](https://atom.io)  
-**Plateformes:** Mac OS, Windows, Linux  
-**Prix:** Gratuit  
-**Sources:** Ouvertes  
-**Éditeur:** GitHub & sa communauté
+**Site :** [atom.io](https://atom.io)
+**Plateformes :** Mac OS, Windows, Linux
+**Prix :** Gratuit
+**Sources :** Ouvertes
+**Éditeur :** GitHub & sa communauté
 
 > Atom is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.
 
-Simple à prendre en main et évolutif, Atom s'adapte à vos besoins grâce à un système de _packages_ développés par la communauté (près de 5000 packages disponibles en septembre 2016), ainsi qu'à toutes vos habitudes graphiques grâce à ses thèmes (plus de 1500 thèmes disponibles). De plus, Atom est développé _via_ les langages `HTML`, `CSS` et `JavaScript`, et, avec un peu d'expérience, vous serez très vite capables de modifier votre éditeur en profondeur pour l'adapter à vos besoins spécifiques.
+Simple à prendre en main et évolutif, Atom s’adapte à vos besoins grâce à un système de _packages_ développés par la communauté (près de 5000 packages disponibles en septembre 2016), ainsi qu’à toutes vos habitudes graphiques grâce à ses thèmes (plus de 1500 thèmes disponibles). De plus, Atom est développé _via_ les langages `HTML`, `CSS` et `JavaScript`, et, avec un peu d’expérience, vous serez très vite capables de modifier votre éditeur en profondeur pour l’adapter à vos besoins spécifiques.
 
 ### Packages
 
-Par défaut, Atom est livré avec une série de _packages_ qui couvrent tout vos besoins d'étudiant. Certains packages additionels sont toutefois très intéressants pour notre usage.  
+Par défaut, Atom est livré avec une série de _packages_ qui couvrent tous vos besoins d’étudiant. Certains packages additionnels sont toutefois très intéressants pour notre usage.  
 
 Le tableau suivant liste les packages _recommandés_ et _conseillés_ pour Atom.
 
-> Pour installer un package, il vous suffit d'utiliser la commande **Install Packages & Themes** ou de choisir l'onglet **Install** du menu **Preferences**.
+> Pour installer un package, il vous suffit d’utiliser la commande **Install Packages & Themes** ou de choisir l’onglet **Install** du menu **Preferences**.
 
 | Nom        | Description       | Intérêt       |
 | ---------- | ----------------- |:-------------:|
-| autoprefixer ([lien](https://atom.io/packages/autoprefixer)) | Ajoute automatiquement les _préfixes de compatibilité_ si nécéssaire en CSS | **recommandé** |
-| emmet ([lien](https://atom.io/packages/emmet)) | Raccourcis & outils pour accélérer l'écriture de HTML et CSS | **recommandé** |
-| linter ([lien](https://atom.io/packages/linter)) | Permet d'utiliser des _linters_ (analyse et conseils en temps réel sur le code) | _conseillé_ |
+| autoprefixer ([lien](https://atom.io/packages/autoprefixer)) | Ajoute automatiquement les _préfixes de compatibilité_ si nécessaire en CSS | **recommandé** |
+| emmet ([lien](https://atom.io/packages/emmet)) | Raccourcis & outils pour accélérer l’écriture de HTML et CSS | **recommandé** |
+| linter ([lien](https://atom.io/packages/linter)) | Permet d’utiliser des _linters_ (analyse et conseils en temps réel sur le code) | _conseillé_ |
 | linter-gadkod ([lien](https://atom.io/packages/linter-gadkod)) | Permet de trouver les caractères non-ASCII qui pourraient générer des erreurs dans le code | _conseillé_ |
-| open-in-browser ([lien](https://atom.io/packages/open-in-browser)) | Ajoute une option pour ouvrir un fichier dans un navigateur, depuis l'arborescence des fichiers | **recommandé** |
-| w3c-validation ([lien](https://atom.io/packages/w3c-validation)) | Permet de valider les fichiers HTML et CSS directement depuis l'éditeur | _conseillé_ |
-| html-outliner ([lien](https://atom.io/packages/html-outliner)) | Affiche les outlines de document HTML (similaire à l'extension **HeadingsMap** pour les navigateurs) | _conseillé_ |
+| open-in-browser ([lien](https://atom.io/packages/open-in-browser)) | Ajoute une option pour ouvrir un fichier dans un navigateur, depuis l’arborescence des fichiers | **recommandé** |
+| w3c-validation ([lien](https://atom.io/packages/w3c-validation)) | Permet de valider les fichiers HTML et CSS directement depuis l’éditeur | _conseillé_ |
+| html-outliner ([lien](https://atom.io/packages/html-outliner)) | Affiche les outlines de document HTML (similaire à l’extension **HeadingsMap** pour les navigateurs) | _conseillé_ |
 
 ### Ressources
 
@@ -133,7 +133,7 @@ Nous allons classer les navigateurs en deux catégories : les [**navigateurs de 
 
 Les premiers sont ceux que nous allons utiliser pendant les cours, comme support à nos exercices.
 
-Les seconds sont ceux sur lesquels il est **recommandé** de faire des tests avant de rendre vos travaux (vous verrez très vite que, d'un navigateur à l'autre, certaines fonctionnalités ne sont pas supportées, ou différemment).
+Les seconds sont ceux sur lesquels il est **recommandé** de faire des tests avant de rendre vos travaux (vous verrez très vite que, d’un navigateur à l’autre, certaines fonctionnalités ne sont pas supportées, ou différemment).
 
 > **Note:** tous les navigateurs cités sont gratuits.
 
@@ -143,11 +143,11 @@ Notre navigateur principal sera [Mozilla Firefox](https://www.mozilla.org/fr/fir
 
 #### Mozilla Firefox
 
-**Site:** [mozilla.org/firefox](https://www.mozilla.org/fr/firefox/new/)  
-**Plateformes:** Mac OS, Windows, Linux  
-**Moteur de rendu:** Gecko  
-**Sources:** Ouvertes  
-**Éditeur:** Mozilla
+**Site :** [mozilla.org/firefox](https://www.mozilla.org/fr/firefox/new/)
+**Plateformes :** Mac OS, Windows, Linux
+**Moteur de rendu :** Gecko
+**Sources :** Ouvertes
+**Éditeur :** Mozilla
 
 ##### Extensions Firefox
 
@@ -160,103 +160,103 @@ Utilisez le petit moteur de recherche pour installer les extensions suivantes (o
 | Nom        |  Auteur        |Description       | Intérêt       |
 | ---------- | ---------- |----------------- |:-------------:|
 | HeadingsMap ([lien](https://addons.mozilla.org/fr/firefox/addon/headingsmap/)) | Rumoroso        | Affiche les outlines (structure des titres) d’un document HTML | **recommandé** |
-| Web Developer ([lien](https://addons.mozilla.org/fr/firefox/addon/web-developer/)) | chrispederick        | Ajoute une barre d'outils utiles pour les développeurs web | **recommandé** |
-| Total Validator ([lien](https://www.totalvalidator.com/downloads/extension.html)) |         | Outil de validation du code HTML, vérificateur de liens brisés, vérification de l'accessibilité des pages (WCAG priorité 1 à 3) en accord avec les Directives pour l'Accessibilité aux Contenus Web. Nécessite une application séparée. | **recommandé** |
-| WCAG Contrast checker ([lien](https://addons.mozilla.org/fr/firefox/addon/wcag-contrast-checker/)) | Rumoroso  | Vérifie la conformité des niveaux de contraste entre les couleurs d’avant-plan et d'arrière-plan en fonction des exigences de WCAG 2.1 | _conseillé_ |
-| WAVE Accessibility Extension ([lien](https://addons.mozilla.org/en-US/firefox/addon/wave-accessibility-tool/)) | WebAIM  | Permet d'évaluer l'accessibilité d'une page Web. Lorsqu'elle est activée, l'extension WAVE injecte des icônes et des indicateurs dans votre page pour donner un retour sur l'accessibilité et en faciliter l’audit. | _conseillé_ |
+| Web Developer ([lien](https://addons.mozilla.org/fr/firefox/addon/web-developer/)) | chrispederick        | Ajoute une barre d’outils utiles pour les développeurs web | **recommandé** |
+| Total Validator ([lien](https://www.totalvalidator.com/downloads/extension.html)) |         | Outil de validation du code HTML, vérificateur de liens brisés, vérification de l’accessibilité des pages (WCAG priorité 1 à 3) en accord avec les Directives pour l’Accessibilité aux Contenus Web. Nécessite une application séparée. | **recommandé** |
+| WCAG Contrast checker ([lien](https://addons.mozilla.org/fr/firefox/addon/wcag-contrast-checker/)) | Rumoroso  | Vérifie la conformité des niveaux de contraste entre les couleurs d’avant-plan et d’arrière-plan en fonction des exigences de WCAG 2.1 | _conseillé_ |
+| WAVE Accessibility Extension ([lien](https://addons.mozilla.org/en-US/firefox/addon/wave-accessibility-tool/)) | WebAIM  | Permet d’évaluer l’accessibilité d’une page Web. Lorsqu’elle est activée, l’extension WAVE injecte des icônes et des indicateurs dans votre page pour donner un retour sur l’accessibilité et en faciliter l’audit. | _conseillé_ |
 | ColorZilla ([lien](https://addons.mozilla.org/fr/firefox/addon/colorzilla/)) | Alex Sirota  | Pipette avancée, sélecteur de couleur, générateur de dégradé et autres outiles pour les couleurs | _conseillé_ |
-| Font Finder ([lien](https://addons.mozilla.org/fr/firefox/addon/font-inspect/)) | Andy Portmen, Eric Caron  | Un inspecteur de polices facile à utiliser pour obtenir les styles CSS de l'élément sélectionné | _conseillé_ |
-| Measure-it ([lien](https://addons.mozilla.org/fr/firefox/addon/measure-it/)) | Trishul  | Dessine une règle sur n'importe quelle page Web pour vérifier la largeur, la hauteur ou l'alignement des éléments de la page en pixels| _conseillé_ |
-| All-In-One PageSpeed Test ([lien](https://addons.mozilla.org/fr/firefox/addon/all-in-one-pagespeed-test/)) | Evgeniy Orlov  | Teste les performances de n'importe quel site Web avec les principaux outils de test en un seul clic : GTmetrix (GooglePageSpeed Insights et Yahoo Yslow), Yellow Lab Tools, …| **recommandé** |
+| Font Finder ([lien](https://addons.mozilla.org/fr/firefox/addon/font-inspect/)) | Andy Portmen, Eric Caron  | Un inspecteur de polices facile à utiliser pour obtenir les styles CSS de l’élément sélectionné | _conseillé_ |
+| Measure-it ([lien](https://addons.mozilla.org/fr/firefox/addon/measure-it/)) | Trishul  | Dessine une règle sur n’importe quelle page Web pour vérifier la largeur, la hauteur ou l’alignement des éléments de la page en pixels| _conseillé_ |
+| All-In-One PageSpeed Test ([lien](https://addons.mozilla.org/fr/firefox/addon/all-in-one-pagespeed-test/)) | Evgeniy Orlov  | Teste les performances de n’importe quel site Web avec les principaux outils de test en un seul clic : GTmetrix (GooglePageSpeed Insights et Yahoo Yslow), Yellow Lab Tools, …| **recommandé** |
 
 N.B. On peut aussi télécharger les extensions en question avec n’importe quel navigateur (elles sont disponibles sous forme de fichiers portant l’extension .xpi) et glisser les fichier xpi dans firefox pour les installer.
 
 #### Google Chrome 
 
-**Site:** [google.com/chrome](https://www.google.fr/chrome/)  
-**Plateformes:** Mac OS, Windows, Linux  
-**Moteur de rendu:** Blink  
-**Sources:** Fermées  
-**Éditeur:** Google  
+**Site :** [google.com/chrome](https://www.google.fr/chrome/)
+**Plateformes :** Mac OS, Windows, Linux
+**Moteur de rendu :** Blink
+**Sources :** Fermées
+**Éditeur :** Google  
 
 ##### Extensions Google Chrome
 
-Google Chrome possède son propre système d'extensions, qui permettent de lui rajouter une série de fonctionnalités utiles pour les intégrateurs & développeurs.
+Google Chrome possède son propre système d’extensions, qui permettent de lui rajouter une série de fonctionnalités utiles pour les intégrateurs & développeurs.
 
 | Nom        | Description       | Intérêt       |
 | ---------- | ----------------- |:-------------:|
 | HeadingsMap ([lien](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi?hl=fr)) | Affiche les outlines de document HTML | **recommandé** |
 
-Lors du premier semestre de cours, il ne sera pas nécéssaire d’avoir d’autres navigateurs installés, mais par la suite, vous devrez vous assurer de tester vos créations sur les navigateurs suivants : 
+Lors du premier semestre de cours, il ne sera pas nécessaire d’avoir d’autres navigateurs installés, mais par la suite, vous devrez vous assurer de tester vos créations sur les navigateurs suivants : 
 
 ### Navigateurs de test
 
-> **Note importante :** certains navigateurs ne sont pas disponibles sur toutes les plateformes. Pour pouvoir malgré tout faire des tests, il existe des outils comme [BrowserStack](https://www.browserstack.com), qui le font à votre place.  
+> **Note importante :** certains navigateurs ne sont pas disponibles sur toutes les plateformes. Pour pouvoir malgré tout faire des tests, il existe des outils comme [BrowserStack](https://www.browserstack.com), qui le font à votre place.
 > Concernant les navigateurs _Edge_ et _Internet Explorer 8, 9, 10 & 11_, Microsoft met à disposition des outils de test sur le site [modern.ie](https://modern.ie/fr-fr). Grâce à ce site, il devient maintenant très simple de tester ses créations sur différentes versions d’Internet Explorer.
 
 #### Google Chrome (ou son alternative libre, [Chromium](https://download-chromium.appspot.com/))
 
-**Site:** [google.com/chrome](https://www.google.fr/chrome/)  
-**Plateformes:** Mac OS, Windows, Linux  
-**Moteur de rendu:** Blink  
-**Sources:** Fermées  
-**Éditeur:** Google  
+**Site :** [google.com/chrome](https://www.google.fr/chrome/)
+**Plateformes :** Mac OS, Windows, Linux
+**Moteur de rendu :** Blink
+**Sources :** Fermées
+**Éditeur :** Google  
 
 #### Microsoft Edge
 
-**Site:** [browserfordoing.com](http://www.browserfordoing.com/)  
-**Plateformes:** Windows 10  
-**Moteur de rendu:** EdgeHTML  
-**Sources:** Fermées  
-**Éditeur:** Microsoft
+**Site :** [browserfordoing.com](http://www.browserfordoing.com/)
+**Plateformes :** Windows 10 +, Mac OS
+**Moteur de rendu :** EdgeHTML
+**Sources :** Fermées
+**Éditeur :** Microsoft
 
 #### Safari
 
-**Site:** [apple.com/safari](http://www.apple.com/fr/safari/)  
-**Plateformes:** Mac OS (donc uniquement disponible sur mac)  
-**Moteur de rendu:** WebKit  
-**Sources:** Fermées  
-**Éditeur:** Apple  
+**Site :** [apple.com/safari](http://www.apple.com/fr/safari/)
+**Plateformes :** Mac OS (donc uniquement disponible sur mac)
+**Moteur de rendu :** WebKit
+**Sources :** Fermées
+**Éditeur :** Apple  
 
 #### Brave
 
-**Site:** [brave.com](https://brave.com/)  
-**Plateformes:** Mac OS, Windows, Linux  
-**Moteur de rendu:** WebKit/Chromium  
-**Sources:** Ouvertes  
-**Éditeur:** Brave Software Inc.  
+**Site :** [brave.com](https://brave.com/)
+**Plateformes :** Mac OS, Windows, Linux
+**Moteur de rendu :** WebKit/Chromium
+**Sources :** Ouvertes
+**Éditeur :** Brave Software Inc.  
 
 #### Opera
 
-**Site:** [opera.com](http://www.opera.com/fr)  
-**Plateformes:** Mac OS, Windows, Linux    
-**Moteur de rendu:** WebKit/Chromium  
-**Sources:** Fermées  
-**Éditeur:** Opera Software  
+**Site :** [opera.com](http://www.opera.com/fr)
+**Plateformes :** Mac OS, Windows, Linux
+**Moteur de rendu :** WebKit/Chromium
+**Sources :** Fermées
+**Éditeur :** Opera Software  
 
 #### Microsoft Internet Explorer 11
 
-**Site:** [support.microsoft.com](https://support.microsoft.com/en-us/help/18520/download-internet-explorer-11-offline-installer)  
-**Plateformes:** Windows 7, Windows 8, Windows 10  
-**Moteur de rendu:** Trident  
-**Sources:** Fermées  
-**Éditeur:** Microsoft  
+**Site :** [support.microsoft.com](https://support.microsoft.com/en-us/help/18520/download-internet-explorer-11-offline-installer)
+**Plateformes :** Windows 7, Windows 8, Windows 10
+**Moteur de rendu :** Trident
+**Sources :** Fermées
+**Éditeur :** Microsoft  
 
 #### Microsoft Internet Explorer 10
 
-**Site:** N/A  
-**Plateformes:** Windows 7, Windows 8  
-**Moteur de rendu:** Trident  
-**Sources:** Fermées  
-**Éditeur:** Microsoft  
+**Site :** N/A
+**Plateformes :** Windows 7, Windows 8
+**Moteur de rendu :** Trident
+**Sources :** Fermées
+**Éditeur :** Microsoft  
 
 #### Microsoft Internet Explorer 9
 
-**Site:** N/A  
-**Plateformes:** Windows Vista, Windows 7  
-**Moteur de rendu:** Trident  
-**Sources:** Fermées  
-**Éditeur:** Microsoft  
+**Site :** N/A
+**Plateformes :** Windows Vista, Windows 7
+**Moteur de rendu :** Trident
+**Sources :** Fermées
+**Éditeur :** Microsoft
 
 ## Documentation
 
@@ -264,57 +264,54 @@ Lors du premier semestre de cours, il ne sera pas nécéssaire d’avoir d’aut
 
 #### HTML
 
-- La référence absolue pour le langage HTML est la spécification du langage HTML, [HTML5 Reference](https://dev.w3.org/html5/html-author/) du [W3C](https://fr.wikipedia.org/wiki/World_Wide_Web_Consortium) (*World Wide Web Consortium*) : en cas de doute, c’est elle qui fait autorité ;
+ - Le [WHATWG](https://fr.wikipedia.org/wiki/Web_Hypertext_Application_Technology_Working_Group) (*Web Hypertext Application Technology Working Group*), édite [HTML Living Standard](https://html.spec.whatwg.org/multipage/) qui présente le standard HTML de manière vivante. Ça signifie que cette spécification évolue très souvent. Versionné autrefois, le standard HTML dont la dernière version numérotée fut la 5 ne l’est plus désormais. Il évolue très souvent et on ne lui accole plus de numéro de version. C’est juste HTML ;
 
-- Celle du [WHATWG](https://fr.wikipedia.org/wiki/Web_Hypertext_Application_Technology_Working_Group) (*Web Hypertext Application Technology Working Group*), [HTML Living Standard](https://html.spec.whatwg.org/multipage/) présente les standards vivants ;
-
-- En français, pour les langages "_communs_", comme HTML, CSS & JavaScript, la meilleure source de documentation est la [MDN Web Docs](https://developer.mozilla.org/fr/) (*Mozilla Developer Network* ou MDN, est un site internet hébergé par la fondation Mozilla qui rassemble de la documentation sur les technologies du web). Pour le langage HTML, il s’agit de la [référence des éléments HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element).
+ - En français, pour les langages "_communs_" du Web, comme HTML, CSS & JavaScript, la meilleure source de documentation est la [MDN Web Docs](https://developer.mozilla.org/fr/) (*Mozilla Developer Network* ou MDN, est un site internet hébergé par la fondation Mozilla qui rassemble de la documentation sur les technologies du web). Pour le langage HTML, il s’agit de la [référence des éléments HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element).
 
 #### CSS
 
-*TODO*
+_TODO_
 
 ### Documentation hors ligne
 
-Il existe deux applications super utiles pour télécharger et consulter de la documentation hors-ligne.
+Il existe deux applications super utiles pour télécharger et consulter de la documentation hors-ligne. Au moment des examens, comme vous n’avez pas accès au Web, nous les utiliserons selon que vous serez sur Mac ou sur Windows.
 
 ### Dash
 
-**Site:** [kapeli.com/dash](https://kapeli.com/dash)  
-**Plateformes:** Mac OS & iOS 
-**Prix:** Payant (±25$), version gratuite (avec publicité) disponible  
-**Sources:** Fermées  
-**Éditeur:** Kapeli
+**Site :** [kapeli.com/dash](https://kapeli.com/dash)
+**Plateformes :** Mac OS 
+**Prix :** Payant, version gratuite (avec pauses dans les recherches) disponible
+**Sources :** Fermées
+**Éditeur :** Kapeli
 
 ### Zeal
 
-**Site:** [zealdocs.org](https://zealdocs.org)  
-**Plateformes:** Windows, Linux  
-**Prix:** Gratuit  
-**Sources:** Ouvertes  
-**Éditeur:** Oleg Shparber & contributeurs
+**Site :** [zealdocs.org](https://zealdocs.org)
+**Plateformes :** Windows, Linux
+**Prix :** Gratuit
+**Sources :** Ouvertes
+**Éditeur :** Oleg Shparber & contributeurs
 
-En version papier, les références sont publiées aux Éditions O'Reilly.
+En version papier, les références sont publiées aux Éditions O’Reilly.
 
 #### HTML
 
-**Titre:** [HTML5 Pocket Reference, 5th Edition](https://www.oreilly.com/library/view/html5-pocket-reference/9781449368777/)  
-**Auteur:** Jennifer Robbins  
-**Dernière mise à jour:** Août 2013
-**ISBN:** 9781449363352  
-**Prix:** ±17€  
+**Titre :** [HTML5 Pocket Reference, 5th Edition](https://www.oreilly.com/library/view/html5-pocket-reference/9781449368777/)
+**Auteur :** Jennifer Robbins
+**ISBN :** 9781449363352
+**Prix :** ± 17 €  
 
 #### CSS
 
-**Titre:** [CSS Pocket Reference, 5th Edition](https://www.oreilly.com/library/view/css-pocket-reference/9781492033387/)  
-**Auteur:** Eric A. Meyer  
-**Dernière mise à jour:** Avril 2018
-**ISBN:** 9781492033394  
-**Prix:** ±15€  
+**Titre :** [CSS Pocket Reference, 5th Edition](https://www.oreilly.com/library/view/css-pocket-reference/9781492033387/)
+**Auteur :** Eric A. Meyer
+**ISBN :** 9781492033394
+**Prix :** ± 15 €  
 
 
 ## Références et lectures complémentaires
 
 - [Les bons outils pour commencer à intégrer votre site web](http://www.alsacreations.com/article/lire/1205-outils-integration-web-debuter.html) sur le site d'Alsacréations ;
-- [Firebug et le débogage d’une page web](http://www.alsacreations.com/article/lire/1215-firebug-debug-debogage-web-extension.html) sur le site d'Alsacréations ;
-- [Emmet Documentation](http://docs.emmet.io/actions/)
+- [Emmet Documentation](http://docs.emmet.io/actions/) ;
+- [Outils de développement de Firefox](https://developer.mozilla.org/fr/docs/Tools) ;
+- [Chrome Dev Tools (EN)](https://developer.chrome.com/docs/devtools/) ;

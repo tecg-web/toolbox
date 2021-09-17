@@ -50,7 +50,7 @@
 * _devant_ les ponctuations hautes :
     * deux-points
     * point-virgule
-    * point d'exclamation
-    * point d'intérrogation
+    * point d’exclamation
+    * point d’intérrogation
 * _après_ les guillemets français ouvrants / _avant_ les guillemets français fermants
 * _avant_ le symbole **pourcent** `%`
