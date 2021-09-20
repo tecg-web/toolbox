@@ -10,11 +10,11 @@ Un serveur statique simule "_simplement_" le comportement d’un serveur en lign
 
 #### LiveServer
 
-**Site:** [LiveServer](https://github.com/molnarmark/sublime-live-server)  
-**Plateformes:** Mac OS, Windows  
-**Prix:** Gratuit  
-**Sources:** Ouvertes  
-**Éditeur:** Mark Molnar
+**Site  :** [LiveServer](https://github.com/molnarmark/sublime-live-server)  
+**Plateformes :** Mac OS, Windows  
+**Prix :** Gratuit  
+**Sources :** Ouvertes  
+**Éditeur :** Mark Molnar
 
 ## FTP
 
@@ -22,11 +22,11 @@ Un serveur statique simule "_simplement_" le comportement d’un serveur en lign
 
 ### Cyberduck
 
-**Site:** [cyberduck.io](https://cyberduck.io)  
-**Plateformes:** Mac OS, Windows  
-**Prix:** Gratuit  
-**Sources:** Ouvertes  
-**Éditeur:** Iterate GmbH
+**Site :** [cyberduck.io](https://cyberduck.io)  
+**Plateformes :** Mac OS, Windows  
+**Prix :** Gratuit  
+**Sources :** Ouvertes  
+**Éditeur :** Iterate GmbH
 
 ## Virtualisation
 
@@ -36,8 +36,8 @@ La virtualisation consiste à faire fonctionner un système au sein d’un autre
 
 ### Virtualbox
 
-**Site:** [virtualbox.org](https://www.virtualbox.org)  
-**Plateformes:** Mac OS, Windows, Linux  
-**Prix:** Gratuit  
-**Sources:** Ouvertes  
-**Éditeur:** Oracle
+**Site :** [virtualbox.org](https://www.virtualbox.org)  
+**Plateformes :** Mac OS, Windows, Linux  
+**Prix :** Gratuit  
+**Sources :** Ouvertes  
+**Éditeur :** Oracle
