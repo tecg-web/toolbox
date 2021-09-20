@@ -51,11 +51,11 @@ Les extensions potentiellement les plus utiles pour débuter sont :
 - **Side Bar Enhancements**
 	- [Screencast explicatif](https://youtu.be/ZVLXLGcaJ0Q)
 	- Le menu latéral *(side bar)* liste les dossiers et fichiers contenus dans le dossier qu’on a ouvert ;
-	- Sidebar Enhancements ajoute des options au menu de clic-droit dans l'arborescence des fichiers : permet, quand on choisit un fichier  dans la *side bar*, d’avoir un menu contextuel plus complet avec, notamment, l’option `open in browser`, qui permet d’ouvrir directement le fichier dans un navigateur sans devoir quitter ST. (N.B. On peut choisir le navigateur avec lequel ST va ouvrir le fichier en modifiant les préférences de ST, voir plus loin).
+	- Sidebar Enhancements ajoute des options au menu de clic-droit dans l’arborescence des fichiers : permet, quand on choisit un fichier  dans la *side bar*, d’avoir un menu contextuel plus complet avec, notamment, l’option `open in browser`, qui permet d’ouvrir directement le fichier dans un navigateur sans devoir quitter ST. (N.B. On peut choisir le navigateur avec lequel ST va ouvrir le fichier en modifiant les préférences de ST, voir plus loin).
 	- Installation : 
 	  1. `CTRL`+`MAJ`+`P`
-	  2. Taper *« install »* => choisir `Package Control: Install Package`
-	  3. Taper *« sidebar »* => choisir `SideBarEnhancements`
+	  2. Taper *« install »* ⇒ choisir `Package Control: Install Package`
+	  3. Taper *« sidebar »* ⇒ choisir `SideBarEnhancements`
 	- Utilisation :
 	  - la *side bar* s’ouvre directement au démarrage de ST dès lors qu’on ouvre un dossier contenant plusieurs fichiers ;
 	  - Sinon, dans le menu, choisir l’option `View` > `Side Bar`> `Show Side Bar`

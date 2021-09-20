@@ -68,8 +68,6 @@ Le tableau suivant liste les packages _recommandés_ et _conseillés_ pour Subli
 | Nom        | Description       | Intérêt       |
 | ---------- | ----------------- |:-------------:|
 | AdvancedNewFile | Ajoute quelques options au menu de clic-droit dans l’arborescence des fichiers | **recommandé** |
-| All Auto Complete | Permet de faire de l’auto-complétion | **recommandé** |
-| Autoprefixer | Ajoute automatiquement les _préfixes de compatibilité_ si nécessaire en CSS | **recommandé** |
 | Emmet | Permet d’utiliser des raccourcis & outils pour accélérer l’écriture de HTML et CSS, voir [Emmet Cheat Sheet](http://docs.emmet.io/cheat-sheet/) | **recommandé** |
 | FindNonASCIICharacters | Permet de trouver les caractères non-ASCII qui pourraient générer des erreurs dans le code | _conseillé_ |
 | MarkdownPreview | Affiche un rendu lisible d’un fichier texte au format markdown | **recommandé** |
@@ -81,8 +79,8 @@ Pour une aide plus détaillée à l’installation et la configuration de Sublim
 ### Ressources
 
 * [Sublime Blog](https://www.sublimetext.com/blog/)
-* [Sublime Text Mastery](https://laracasts.com/series/sublime-text-mastery)
-* [Sublime Text Bookmarks](https://github.com/dreikanter/sublime-bookmarks)
+* [Sublime Text Mastery - ⚠️ 2015](https://laracasts.com/series/sublime-text-mastery)
+* [Sublime Text Bookmarks - ⚠️ 2020](https://github.com/dreikanter/sublime-bookmarks)
 
 
 * * *
