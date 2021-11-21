@@ -142,9 +142,13 @@ Notre navigateur principal sera [Mozilla Firefox](https://www.mozilla.org/fr/fir
 #### Mozilla Firefox
 
 **Site :** [mozilla.org/firefox](https://www.mozilla.org/fr/firefox/new/)
+
 **Plateformes :** Mac OS, Windows, Linux
+
 **Moteur de rendu :** Gecko
+
 **Sources :** Ouvertes
+
 **Éditeur :** Mozilla
 
 ##### Extensions Firefox
@@ -172,9 +176,13 @@ N.B. On peut aussi télécharger les extensions en question avec n’importe que
 #### Google Chrome 
 
 **Site :** [google.com/chrome](https://www.google.fr/chrome/)
+
 **Plateformes :** Mac OS, Windows, Linux
+
 **Moteur de rendu :** Blink
+
 **Sources :** Fermées
+
 **Éditeur :** Google  
 
 ##### Extensions Google Chrome
