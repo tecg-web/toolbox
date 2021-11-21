@@ -54,13 +54,8 @@ _TODO_
 
 ### Développement Côté Serveur [hepl-pwcs](https://github.com/hepl-pwcs)
 
-- Un IDE [PhpStorm](https://www.jetbrains.com/phpstorm/)
-- PHP
-- SQLITE
-- [Composer](http://www.getcomposer.org)
-- Git et un client Git (peut être dans l’IDE)
-- Un interpréteur de commandes (peut être dans l’IDE)
-- Selon la disponibilité du système de fichiers exposé par le serveur Web, un client FTP.
+- Un IDE [PhpStorm 👍👍👍](https://www.jetbrains.com/phpstorm/) ou [VSCode 👍👍](https://code.visualstudio.com/)
+- [Docker](https://www.docker.com/get-started)  - Attention, sous Windows ☠️, [l’installation implique d’installer d’abord WSL2](https://docs.docker.com/desktop/windows/)
 
 ### Multimédia Interactif [hepl-mmi](https://github.com/hepl-mmi)
 
@@ -74,7 +69,7 @@ _TODO_
 
 ### Projets web [hepl-pw](https://github.com/hepl-pw)
 
-_TODO_
+Idem que pour le cours de Développement Côté Serveur
 
 ### Développement d’applications mobiles [hepl-dam](https://github.com/hepl-dam)
 
