@@ -321,7 +321,7 @@ _TODO_
 
 Il existe deux applications super utiles pour télécharger et consulter de la documentation hors-ligne. Au moment des examens, comme vous n’avez pas accès au Web, nous les utiliserons selon que vous serez sur Mac ou sur Windows.
 
-### DASH
+#### DASH
 
 **Site :** [kapeli.com/dash](https://kapeli.com/dash)
 
@@ -333,7 +333,7 @@ Il existe deux applications super utiles pour télécharger et consulter de la d
 
 **Éditeur :** Kapeli
 
-### ZEAL
+#### ZEAL
 
 **Site :** [zealdocs.org](https://zealdocs.org)
 
