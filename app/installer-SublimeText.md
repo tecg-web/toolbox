@@ -211,7 +211,7 @@ En détail, cela donne dans ce cas :
 
 Un snippet est un raccourci correspondant à un bout de code.
 
-Un exemple que vous connaissez est le raccourci  `!+TAB` qui vous permet d’avoir un template de base HTML.
+Un exemple que vous connaissez est le raccourci  `!`+`TAB` qui vous permet d’avoir un template de base HTML.
 
 *Sublime Text* permet de se créer ses propres raccourcis personnalisés pour des bouts de code utiles, comme une balise sectionnante contenant déjà son titre et les attributs WAI-ARIA.
 
@@ -232,10 +232,10 @@ Cela va ouvrir le dossier *Packages* de l’application. Glissez ici simplement 
 
 Pour les utiliser dans Sublime Text, il ne vous reste plus qu’à utiliser les raccourcis clavier suivants :
 
-- `ar+TAB` pour `article` ;
-- `as+TAB` pour `aside` ;
-- `na+TAB` pour `nav` ;
-- `se+TAB` pour `section`
+- `ar`+`TAB` pour `article` ;
+- `as`+`TAB` pour `aside` ;
+- `na`+`TAB` pour `nav` ;
+- `se`+`TAB` pour `section`
 
 Cela va générer le code avec deux zones variables : une pour l’id du titre et une pour le niveau.
 
