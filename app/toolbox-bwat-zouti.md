@@ -159,7 +159,7 @@ Utilisez le petit moteur de recherche pour installer les extensions suivantes (o
 | ---------- | ---------- |----------------- |:-------------:|
 | HeadingsMap ([lien](https://addons.mozilla.org/fr/firefox/addon/headingsmap/)) | Rumoroso        | Affiche les outlines (structure des titres) d’un document HTML | **recommandé** |
 | Web Developer ([lien](https://addons.mozilla.org/fr/firefox/addon/web-developer/)) | chrispederick        | Ajoute une barre d’outils utiles pour les développeurs web | **recommandé** |
-| Total Validator ([lien](https://www.totalvalidator.com/downloads/extension.html)) |         | Outil de validation du code HTML, vérificateur de liens brisés, vérification de l’accessibilité des pages (WCAG priorité 1 à 3) en accord avec les Directives pour l’Accessibilité aux Contenus Web. Nécessite une application séparée. | **recommandé** |
+| Total Validator ([lien](https://www.totalvalidator.com/downloads/extension.html)) |         | Outil de validation du code HTML, vérificateur de liens brisés, vérification de l’accessibilité des pages (WCAG priorité 1 à 3) en accord avec les Directives pour l’Accessibilité aux Contenus Web. Nécessite une application séparée (voir ci-dessous). | **recommandé** |
 | WCAG Contrast checker ([lien](https://addons.mozilla.org/fr/firefox/addon/wcag-contrast-checker/)) | Rumoroso  | Vérifie la conformité des niveaux de contraste entre les couleurs d’avant-plan et d’arrière-plan en fonction des exigences de WCAG 2.1 | _conseillé_ |
 | WAVE Accessibility Extension ([lien](https://addons.mozilla.org/en-US/firefox/addon/wave-accessibility-tool/)) | WebAIM  | Permet d’évaluer l’accessibilité d’une page Web. Lorsqu’elle est activée, l’extension WAVE injecte des icônes et des indicateurs dans votre page pour donner un retour sur l’accessibilité et en faciliter l’audit. | _conseillé_ |
 | ColorZilla ([lien](https://addons.mozilla.org/fr/firefox/addon/colorzilla/)) | Alex Sirota  | Pipette avancée, sélecteur de couleur, générateur de dégradé et autres outiles pour les couleurs | _conseillé_ |
@@ -255,6 +255,13 @@ Lors du premier semestre de cours, il ne sera pas nécessaire d’avoir d’autr
 **Moteur de rendu :** Trident
 **Sources :** Fermées
 **Éditeur :** Microsoft
+
+### Validateur Total Validator
+
+Installez en local sur votre machine l’application Total Validator Basic. Attention, cette application est devenue payante, mais vous pouvez encore utiliser une version gratuite plus ancienne, mise à disposition dans ce repo.
+
+- Macos : [TotalValidator.dmg](TotalValidator.dmg)
+- Windows : [TotalValidatorBasic.exe](TotalValidatorBasic.exe)
 
 ## Documentation
 

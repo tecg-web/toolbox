@@ -205,7 +205,42 @@ En détail, cela donne dans ce cas :
 	* ⇒ `ENTER` pour choisir la première proposition
 	* ⇒ flèche pour se balader dans la liste et `ENTER`quand on est sur celle qu’on veut
 
+## 5. Installer des snippets (raccourcis de code personnalisés)
+
+### 5.1. Généralités
+
+Un snippet est un raccourci correspondant à un bout de code.
+
+Un exemple que vous connaissez est le raccourci  `!+TAB` qui vous permet d’avoir un template de base HTML.
+
+*Sublime Text* permet de se créer ses propres raccourcis personnalisés pour des bouts de code utiles, comme une balise sectionnante contenant déjà son titre et les attributs WAI-ARIA.
+
+Il faut en principe 
+
+1. créer son snippet (qui est un fichier contenant le canevas du code pour lequel on veut un raccourci dans lequel on insère des zones variables et le raccourci auquel on veut que cela corresponde) en utilisant un langage de code pour le paramétrer (voir si cela vous intéresse …) ;
+2. enregistrer le fichier qui contient le snippet dans le répertoire *Packages* de votre Sublime Text ;
+
+Il ne reste plus ensuite qu’à utiliser le snippet créé en tapant le raccourci que l’on a défini.
+
+### 5.2. Installer des snippets pour les sections titrées avec des attributs WAI-ARIA
+
+Pour ce faire, allez dans le répertoire *Packages* de votre Sublime Text.
+
+![Le menu des préférences](ST3-snippet-repertoire.png)
 	
+Cela va ouvrir le dossier *Packages* de l’application. Glissez ici simplement les fichiers `*.sublime.snippet` fournis dans le dossier `snippets-ST-sect-hx-ARIA` de ce repo.
+
+Pour les utiliser dans Sublime Text, il ne vous reste plus qu’à utiliser les raccourcis clavier suivants :
+
+- `ar+TAB` pour `article` ;
+- `as+TAB` pour `aside` ;
+- `na+TAB` pour `nav` ;
+- `se+TAB` pour `section`
+
+Cela va générer le code avec deux zones variables : une pour l’id du titre et une pour le niveau.
+
+Tapez à chaque fois la valeur que vous souhaitez (cela va la remplir partout où c’est nécessaire) et passez à la suivante grâce à la touche `TAB`. 
+
 ## Ressources
 
 * [Sublime Blog](https://www.sublimetext.com/blog/)
