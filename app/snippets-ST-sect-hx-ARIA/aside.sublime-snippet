@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<aside aria-labelledby="$1">
+	<h${2:2} id="$1" role="heading" aria-level="${2:2}">
+		$3
+	</h${2:2}>
+</aside>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<tabTrigger>as</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
+</snippet>
