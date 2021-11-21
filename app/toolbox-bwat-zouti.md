@@ -203,65 +203,97 @@ Lors du premier semestre de cours, il ne sera pas nécessaire d’avoir d’autr
 #### Google Chrome (ou son alternative libre, [Chromium](https://download-chromium.appspot.com/))
 
 **Site :** [google.com/chrome](https://www.google.fr/chrome/)
+
 **Plateformes :** Mac OS, Windows, Linux
+
 **Moteur de rendu :** Blink
+
 **Sources :** Fermées
+
 **Éditeur :** Google  
 
 #### Microsoft Edge
 
 **Site :** [browserfordoing.com](http://www.browserfordoing.com/)
+
 **Plateformes :** Windows 10 +, Mac OS
+
 **Moteur de rendu :** EdgeHTML
+
 **Sources :** Fermées
+
 **Éditeur :** Microsoft
 
 #### Safari
 
 **Site :** [apple.com/safari](http://www.apple.com/fr/safari/)
+
 **Plateformes :** Mac OS (donc uniquement disponible sur mac)
+
 **Moteur de rendu :** WebKit
+
 **Sources :** Fermées
+
 **Éditeur :** Apple  
 
 #### Brave
 
 **Site :** [brave.com](https://brave.com/)
+
 **Plateformes :** Mac OS, Windows, Linux
+
 **Moteur de rendu :** WebKit/Chromium
+
 **Sources :** Ouvertes
+
 **Éditeur :** Brave Software Inc.  
 
 #### Opera
 
 **Site :** [opera.com](http://www.opera.com/fr)
+
 **Plateformes :** Mac OS, Windows, Linux
+
 **Moteur de rendu :** WebKit/Chromium
+
 **Sources :** Fermées
+
 **Éditeur :** Opera Software  
 
 #### Microsoft Internet Explorer 11
 
 **Site :** [support.microsoft.com](https://support.microsoft.com/en-us/help/18520/download-internet-explorer-11-offline-installer)
+
 **Plateformes :** Windows 7, Windows 8, Windows 10
+
 **Moteur de rendu :** Trident
+
 **Sources :** Fermées
+
 **Éditeur :** Microsoft  
 
 #### Microsoft Internet Explorer 10
 
 **Site :** N/A
+
 **Plateformes :** Windows 7, Windows 8
+
 **Moteur de rendu :** Trident
+
 **Sources :** Fermées
+
 **Éditeur :** Microsoft  
 
 #### Microsoft Internet Explorer 9
 
 **Site :** N/A
+
 **Plateformes :** Windows Vista, Windows 7
+
 **Moteur de rendu :** Trident
+
 **Sources :** Fermées
+
 **Éditeur :** Microsoft
 
 ### Validateur Total Validator
