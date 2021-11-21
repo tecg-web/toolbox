@@ -139,7 +139,7 @@ Les seconds sont ceux sur lesquels il est **recommandé** de faire des tests ava
 
 Notre navigateur principal sera [Mozilla Firefox](https://www.mozilla.org/fr/firefox/new/) ou [Google Chrome](https://www.google.com/chrome/).
 
-#### Mozilla Firefox
+#### MOZILLA FIREFOX
 
 **Site :** [mozilla.org/firefox](https://www.mozilla.org/fr/firefox/new/)
 
@@ -173,7 +173,7 @@ Utilisez le petit moteur de recherche pour installer les extensions suivantes (o
 
 N.B. On peut aussi télécharger les extensions en question avec n’importe quel navigateur (elles sont disponibles sous forme de fichiers portant l’extension .xpi) et glisser les fichier xpi dans firefox pour les installer.
 
-#### Google Chrome 
+#### GOOGLE CHROME 
 
 **Site :** [google.com/chrome](https://www.google.fr/chrome/)
 
@@ -200,7 +200,7 @@ Lors du premier semestre de cours, il ne sera pas nécessaire d’avoir d’autr
 > **Note importante :** certains navigateurs ne sont pas disponibles sur toutes les plateformes. Pour pouvoir malgré tout faire des tests, il existe des outils comme [BrowserStack](https://www.browserstack.com), qui le font à votre place.
 > Concernant les navigateurs _Edge_ et _Internet Explorer 8, 9, 10 & 11_, Microsoft met à disposition des outils de test sur le site [modern.ie](https://modern.ie/fr-fr). Grâce à ce site, il devient maintenant très simple de tester ses créations sur différentes versions d’Internet Explorer.
 
-#### Google Chrome (ou son alternative libre, [Chromium](https://download-chromium.appspot.com/))
+#### GOOGLE CHROME (ou son alternative libre, [CHROMIUM](https://download-chromium.appspot.com/))
 
 **Site :** [google.com/chrome](https://www.google.fr/chrome/)
 
@@ -212,7 +212,7 @@ Lors du premier semestre de cours, il ne sera pas nécessaire d’avoir d’autr
 
 **Éditeur :** Google  
 
-#### Microsoft Edge
+#### MICROSOFT EDGE
 
 **Site :** [browserfordoing.com](http://www.browserfordoing.com/)
 
@@ -224,7 +224,7 @@ Lors du premier semestre de cours, il ne sera pas nécessaire d’avoir d’autr
 
 **Éditeur :** Microsoft
 
-#### Safari
+#### SAFARI
 
 **Site :** [apple.com/safari](http://www.apple.com/fr/safari/)
 
@@ -236,7 +236,7 @@ Lors du premier semestre de cours, il ne sera pas nécessaire d’avoir d’autr
 
 **Éditeur :** Apple  
 
-#### Brave
+#### BRAVE
 
 **Site :** [brave.com](https://brave.com/)
 
@@ -248,7 +248,7 @@ Lors du premier semestre de cours, il ne sera pas nécessaire d’avoir d’autr
 
 **Éditeur :** Brave Software Inc.  
 
-#### Opera
+#### OPERA
 
 **Site :** [opera.com](http://www.opera.com/fr)
 
@@ -260,7 +260,7 @@ Lors du premier semestre de cours, il ne sera pas nécessaire d’avoir d’autr
 
 **Éditeur :** Opera Software  
 
-#### Microsoft Internet Explorer 11
+#### MICROSOFT INTERNET EXPLORER 11
 
 **Site :** [support.microsoft.com](https://support.microsoft.com/en-us/help/18520/download-internet-explorer-11-offline-installer)
 
@@ -272,7 +272,7 @@ Lors du premier semestre de cours, il ne sera pas nécessaire d’avoir d’autr
 
 **Éditeur :** Microsoft  
 
-#### Microsoft Internet Explorer 10
+#### MICROSOFT INTERNET EXPLORER 10
 
 **Site :** N/A
 
@@ -284,7 +284,7 @@ Lors du premier semestre de cours, il ne sera pas nécessaire d’avoir d’autr
 
 **Éditeur :** Microsoft  
 
-#### Microsoft Internet Explorer 9
+#### MICROSOFT INTERNET EXPLORER 9
 
 **Site :** N/A
 
