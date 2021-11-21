@@ -321,20 +321,28 @@ _TODO_
 
 Il existe deux applications super utiles pour télécharger et consulter de la documentation hors-ligne. Au moment des examens, comme vous n’avez pas accès au Web, nous les utiliserons selon que vous serez sur Mac ou sur Windows.
 
-### Dash
+### DASH
 
 **Site :** [kapeli.com/dash](https://kapeli.com/dash)
+
 **Plateformes :** Mac OS 
+
 **Prix :** Payant, version gratuite (avec pauses dans les recherches) disponible
+
 **Sources :** Fermées
+
 **Éditeur :** Kapeli
 
-### Zeal
+### ZEAL
 
 **Site :** [zealdocs.org](https://zealdocs.org)
+
 **Plateformes :** Windows, Linux
+
 **Prix :** Gratuit
+
 **Sources :** Ouvertes
+
 **Éditeur :** Oleg Shparber & contributeurs
 
 En version papier, les références sont publiées aux Éditions O’Reilly.
