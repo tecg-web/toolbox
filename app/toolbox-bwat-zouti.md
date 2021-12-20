@@ -296,6 +296,8 @@ Lors du premier semestre de cours, il ne sera pas nécessaire d’avoir d’autr
 
 **Éditeur :** Microsoft
 
+## Validateurs
+
 ### Validateur Total Validator
 
 Installez en local sur votre machine l’application Total Validator Basic. Attention, cette application est devenue payante, mais vous pouvez encore utiliser une version gratuite plus ancienne, mise à disposition dans ce repo.
