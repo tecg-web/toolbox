@@ -303,6 +303,10 @@ Installez en local sur votre machine l’application Total Validator Basic. Atte
 - Macos : [TotalValidator.dmg](TotalValidator.dmg)
 - Windows : [TotalValidatorBasic.exe](TotalValidatorBasic.exe)
 
+### Outil de test des microdata
+
+https://search.google.com/test/rich-results
+
 ## Documentation
 
 ### Documentation en ligne
