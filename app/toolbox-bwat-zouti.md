@@ -41,7 +41,7 @@ Trois autres bons éditeurs de texte, parmi d’autres, sont :
 
 Ces outils embarquent généralement un système de plugins qui permettent d’étendre leurs capacités. 
 
-## Sublime Text
+### Sublime Text
 
 **Site :** [sublimetext.com](https://www.sublimetext.com)
 **Plateformes :** Mac OS, Windows, Linux
@@ -55,7 +55,7 @@ Sublime Text est payant, mais il bénéficie d’un mode démo d’une durée il
 
 C’est un éditeur léger et rapide, autant avec les petits fichiers que les très, très gros fichiers (il encaisse des millions de lignes sans broncher). Grâce à un système de packages ajouté par la communauté, les capacités de Sublime Text peuvent être augmentées et le rendre encore plus polyvalent.
 
-### Extensions Sublime Text
+#### Extensions Sublime Text
 
 La première extension que vous devez installer préalablement est **Package Control**. Comme son nom l’indique, il permet d’installer d’autres packages par la suite.
 
@@ -76,16 +76,14 @@ Le tableau suivant liste les packages _recommandés_ et _conseillés_ pour Subli
 Pour une aide plus détaillée à l’installation et la configuration de Sublime Text, on vous renvoie au document suivant : [**Installer et configurer Sublime Text**](./installer-SublimeText.md).
 
 
-### Ressources
+#### Ressources
 
 * [Sublime Blog](https://www.sublimetext.com/blog/)
 * [Sublime Text Mastery - ⚠️ 2015](https://laracasts.com/series/sublime-text-mastery)
 * [Sublime Text Bookmarks - ⚠️ 2020](https://github.com/dreikanter/sublime-bookmarks)
 
 
-* * *
-
-## Atom
+### Atom
 
 **Site :** [atom.io](https://atom.io)
 **Plateformes :** Mac OS, Windows, Linux
@@ -97,7 +95,7 @@ Pour une aide plus détaillée à l’installation et la configuration de Sublim
 
 Simple à prendre en main et évolutif, Atom s’adapte à vos besoins grâce à un système de _packages_ développés par la communauté (près de 5000 packages disponibles en septembre 2016), ainsi qu’à toutes vos habitudes graphiques grâce à ses thèmes (plus de 1500 thèmes disponibles). De plus, Atom est développé _via_ les langages `HTML`, `CSS` et `JavaScript`, et, avec un peu d’expérience, vous serez très vite capables de modifier votre éditeur en profondeur pour l’adapter à vos besoins spécifiques.
 
-### Packages
+#### Packages
 
 Par défaut, Atom est livré avec une série de _packages_ qui couvrent tous vos besoins d’étudiant. Certains packages additionnels sont toutefois très intéressants pour notre usage.  
 
@@ -115,11 +113,13 @@ Le tableau suivant liste les packages _recommandés_ et _conseillés_ pour Atom.
 | w3c-validation ([lien](https://atom.io/packages/w3c-validation)) | Permet de valider les fichiers HTML et CSS directement depuis l’éditeur | _conseillé_ |
 | html-outliner ([lien](https://atom.io/packages/html-outliner)) | Affiche les outlines de document HTML (similaire à l’extension **HeadingsMap** pour les navigateurs) | _conseillé_ |
 
-### Ressources
+#### Ressources
 
 * [Atom's Blog](http://blog.atom.io)
 * [Awesome Atom](https://github.com/mehcode/awesome-atom)
 * [Atom Editor Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHHf0w8uGu9NM8LPf498ZvL_)
+
+* * *
 
 ## Navigateurs web
 
@@ -296,6 +296,8 @@ Lors du premier semestre de cours, il ne sera pas nécessaire d’avoir d’autr
 
 **Éditeur :** Microsoft
 
+* * *
+
 ## Validateurs
 
 ### Validateur Total Validator
@@ -308,6 +310,8 @@ Installez en local sur votre machine l’application Total Validator Basic. Atte
 ### Outil de test des microdata
 
 https://validator.schema.org/
+
+* * *
 
 ## Documentation
 
@@ -367,6 +371,7 @@ En version papier, les références sont publiées aux Éditions O’Reilly.
 **ISBN :** 9781492033394
 **Prix :** ± 15 €  
 
+* * *
 
 ## Références et lectures complémentaires
 
