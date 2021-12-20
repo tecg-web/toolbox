@@ -305,7 +305,7 @@ Installez en local sur votre machine l’application Total Validator Basic. Atte
 
 ### Outil de test des microdata
 
-https://search.google.com/test/rich-results
+https://validator.schema.org/
 
 ## Documentation
 
