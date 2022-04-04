@@ -42,7 +42,7 @@ _TODO_
 
 ### Développement Côté Client [hepl-dcc](https://github.com/hepl-dcc)
 
-_TODO_
+La même configuration que [Multimédia Interactif](#multimedia-interactif).
 
 ### Réseaux & Serveurs [hepl-rsv](https://github.com/hepl-rsv)
 
