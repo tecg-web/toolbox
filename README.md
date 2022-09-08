@@ -44,7 +44,7 @@ La même configuration que [Multimédia Interactif](#multimédia-interactif-hepl
 
 _TODO_
 
-### Développement Côté Serveur [tecg-dcs](https://github.com/tecgw-dcs)
+### Développement Côté Serveur [tecgw-dcs](https://github.com/tecgw-dcs)
 
 - Un IDE [PhpStorm 👍👍👍](https://www.jetbrains.com/phpstorm/) ou [VSCode 👍👍](https://code.visualstudio.com/)
 - [Docker](https://www.docker.com/get-started)  - Attention, sous Windows ☠️, [l’installation implique d’installer d’abord WSL2](https://docs.docker.com/desktop/windows/)
