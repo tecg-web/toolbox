@@ -26,13 +26,9 @@ Si vous utilisez un Mac, il est recommandé d’utiliser [Brew](https://brew.sh)
 
 Pour ce cours, les outils communs listés dans le document [bwat zouti](./app/toolbox-bwat-zouti.md) suffisent.
 
-### Design Web [hepl-dwt](https://github.com/hepl-dwt)
+### Design Web [tecg-dwt](https://github.com/tecgw-dwt)
 
 Cours théorique, donc rien
-
-### Initiation à la programmation
-
-_TODO_
 
 ## Bloc 2
 
@@ -44,15 +40,11 @@ _TODO_
 
 La même configuration que [Multimédia Interactif](#multimédia-interactif-hepl-mmi).
 
-### Réseaux & Serveurs [hepl-rsv](https://github.com/hepl-rsv)
-
-Pour ce cours, en plus des outils communs, nous aurons besoin d’un [outil de virtualisation](./app/serveurs.md#virtualisation), d'un [terminal](./app/divers.md#terminal), et d'un [client FTP](./app/serveurs.md#ftp).
-
 ### Systèmes de gestion de contenu
 
 _TODO_
 
-### Développement Côté Serveur [hepl-pwcs](https://github.com/hepl-pwcs)
+### Développement Côté Serveur [tecg-dcs](https://github.com/tecgw-dcs)
 
 - Un IDE [PhpStorm 👍👍👍](https://www.jetbrains.com/phpstorm/) ou [VSCode 👍👍](https://code.visualstudio.com/)
 - [Docker](https://www.docker.com/get-started)  - Attention, sous Windows ☠️, [l’installation implique d’installer d’abord WSL2](https://docs.docker.com/desktop/windows/)
@@ -60,14 +52,14 @@ _TODO_
 ### Multimédia Interactif [hepl-mmi](https://github.com/hepl-mmi)
 
 - Un IDE [PhpStorm](https://www.jetbrains.com/phpstorm/)
-- [NodeJS + npm](https://nodejs.org/en/), préférez l’installeur current
+- [NodeJS + npm](https://nodejs.org/en/), préférez l’installeur `current`
 - Git et un client Git (peut être dans l’IDE)
 - Un interpréteur de commandes (peut être dans l’IDE)
 - Selon la disponibilité du système de fichiers exposé par le serveur Web, un client FTP.
 
 ## Bloc 3
 
-### Projets web [hepl-pw](https://github.com/hepl-pw)
+### Projets web [tecgw-pw](https://github.com/tecgw-pw)
 
 Idem que pour le cours de Développement Côté Serveur
 
