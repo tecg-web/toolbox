@@ -31,7 +31,7 @@ Dans le cadre du démarrage de votre formation, nous vous conseillons de choisir
 
 Soyez toutefois attentif au fait que, si vous choisissez un autre éditeur, vos professeurs ne sont pas là pour passer du temps à en résoudre les éventuels problèmes.
 
-Après quelques temps, vos besoins grandiront et vous souhaiterez peut-être vous orienté vers un environnement de développement intégré (IDE) qui sont des outils de développement dans lesquels on trouve un éditeur de texte, mais aussi des tas d‘autres outils qui vous évitent de devoir jongler entre divers logiciels. Si votre préférence va dans ce sens, les plus utilisés dans le Web actuellement sont : 
+Après quelques temps, vos besoins grandiront et vous souhaiterez peut-être vous orienter vers un environnement de développement intégré (IDE) un type d’outil de développement qui rassemble un éditeur de texte avec un tas d‘autres outils, ce qui vous évite de devoir jongler entre divers logiciels. Si votre préférence va dans ce sens, les plus utilisés dans le Web actuellement sont : 
 
 * [Visual Studio Code](https://code.visualstudio.com) (gratuit), qui est plus récent, et qui peut être personnalisé à souhait. Comme le montre ce tutoriel proposé par [Frontend Masters Courses](https://frontendmasters.com/courses/visual-studio-code/) ;
 * [PhpStorm](https://www.jetbrains.com/phpstorm/). Celui-ci est payant, toutefois il est compris gratuitement dans le [GitHub Student Developer Pack](https://education.github.com/pack). Ce sera l’éditeur de prédilection pour les cours de l’orientation Web en Bac 2.
