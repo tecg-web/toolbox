@@ -31,13 +31,14 @@ Dans le cadre du démarrage de votre formation, nous vous conseillons de choisir
 
 Soyez toutefois attentif au fait que, si vous choisissez un autre éditeur, vos professeurs ne sont pas là pour passer du temps à en résoudre les éventuels problèmes.
 
-Trois autres bons éditeurs de texte, parmi d’autres, sont : 
+Après quelques temps, vos besoins grandiront et vous souhaiterez peut-être vous orienté vers un environnement de développement intégré (IDE) qui sont des outils de développement dans lesquels on trouve un éditeur de texte, mais aussi des tas d‘autres outils qui vous évitent de devoir jongler entre divers logiciels. Si votre préférence va dans ce sens, les plus utilisés dans le Web actuellement sont : 
 
-* [Brackets](http://brackets.io/) (gratuit) ;
 * [Visual Studio Code](https://code.visualstudio.com) (gratuit), qui est plus récent, et qui peut être personnalisé à souhait. Comme le montre ce tutoriel proposé par [Frontend Masters Courses](https://frontendmasters.com/courses/visual-studio-code/) ;
-* Enfin, il existe aussi [PhpStorm](https://www.jetbrains.com/phpstorm/). Celui-ci est payant, toutefois il est compris gratuitement dans le [GitHub Student Developer Pack](https://education.github.com/pack). Ce sera l’éditeur de prédilection pour les cours de l’orientation Web en Bac 2.
+* [PhpStorm](https://www.jetbrains.com/phpstorm/). Celui-ci est payant, toutefois il est compris gratuitement dans le [GitHub Student Developer Pack](https://education.github.com/pack). Ce sera l’éditeur de prédilection pour les cours de l’orientation Web en Bac 2.
 
-Ces outils embarquent généralement un système de plugins qui permettent d’étendre leurs capacités. 
+Notez que Jetbrains, la société qui édite PHPStorm (entre autres), a annoncé la disponibilité prochaine d‘un éditeur de code léger qui risque de bousculer le paysage, Fleet. À ce jour, seuls quelques développeurs y ont accès en version beta.
+
+Tous ces outils embarquent généralement un système de plugins qui permettent d’étendre leurs capacités. 
 
 ### Sublime Text
 
