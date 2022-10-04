@@ -34,7 +34,7 @@ Soyez toutefois attentif au fait que, si vous choisissez un autre éditeur, vos 
 Après quelques temps, vos besoins grandiront et vous souhaiterez peut-être vous orienter vers un environnement de développement intégré (IDE) un type d’outil de développement qui rassemble un éditeur de texte avec un tas d‘autres outils, ce qui vous évite de devoir jongler entre divers logiciels. Si votre préférence va dans ce sens, les plus utilisés dans le Web actuellement sont : 
 
 * [Visual Studio Code](https://code.visualstudio.com) (gratuit), qui est plus récent, et qui peut être personnalisé à souhait. Comme le montre ce tutoriel proposé par [Frontend Masters Courses](https://frontendmasters.com/courses/visual-studio-code/) ;
-* [PhpStorm](https://www.jetbrains.com/phpstorm/). Celui-ci est payant, toutefois il est compris gratuitement dans le [GitHub Student Developer Pack](https://education.github.com/pack). Ce sera l’éditeur de prédilection pour les cours de l’orientation Web en Bac 2.
+* [PhpStorm](https://www.jetbrains.com/phpstorm/). Celui-ci est payant, mais vous est accessible gratuitement via une licence étudiant. Ce sera l’éditeur de prédilection pour les cours de l’orientation Web en Bac 2.
 
 Notez que Jetbrains, la société qui édite PHPStorm (entre autres), a annoncé la disponibilité prochaine d‘un éditeur de code léger qui risque de bousculer le paysage, Fleet. À ce jour, seuls quelques développeurs y ont accès en version beta.
 
