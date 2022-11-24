@@ -228,7 +228,7 @@ Pour ce faire, allez dans le répertoire *Packages* de votre Sublime Text.
 
 ![Le menu des préférences](ST3-snippet-repertoire.png)
 	
-Cela va ouvrir le dossier *Packages* de l’application. Glissez ici simplement les fichiers `*.sublime.snippet` fournis dans le dossier `snippets-ST-sect-hx-ARIA` de ce repo.
+Cela va ouvrir le dossier *Packages* de l’application. Glissez ici simplement les fichiers `*.sublime-snippet` fournis dans le dossier `snippets-ST-sect-hx-ARIA` de ce repo.
 
 Pour les utiliser dans Sublime Text, il ne vous reste plus qu’à utiliser les raccourcis clavier suivants :
 
