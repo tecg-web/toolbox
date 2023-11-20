@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<nav aria-labelledby="$1">
-	<h${2:2} id="$1" role="heading" aria-level="${2:2}">
-		$3
-	</h${2:2}>
+<nav>
+	<h$1>
+		$2
+	</h$1>
 </nav>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
