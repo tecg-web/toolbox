@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<aside aria-labelledby="$1">
-	<h${2:2} id="$1" role="heading" aria-level="${2:2}">
+<aside>
+	<h$2 id="$1">
 		$3
-	</h${2:2}>
+	</h$2>
 </aside>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
