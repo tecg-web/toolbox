@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <section>
-	<h$2 id="$1">
+	<h$2>
 		$3
 	</h$2>
 </section>
