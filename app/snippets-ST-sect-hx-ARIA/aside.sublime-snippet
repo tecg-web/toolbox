@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
 <aside>
-	<h$2 id="$1">
-		$3
-	</h$2>
+	<h$1>
+		$2
+	</h$1>
 </aside>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
