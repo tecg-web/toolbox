@@ -4,41 +4,31 @@
 
 * * *
 
-**Note:** the school where the course is given, the [HEPL](http://www.provincedeliege.be/hauteecole) from Liège, Belgium, is a french-speaking school. From this point, the instruction will be in french. Sorry.
+**Note:** the school where the course is given, the [HEPL](https://hepl.be) from Liège, Belgium, is a french-speaking school. From this point, the instruction will be in french. Sorry.
 
 * * *
 
 Dans le cadre du cours de **Création de pages Web**, vous allez à apprendre à *coder* des pages web afin de les *visualiser* sur des navigateurs web.
 
-Comme en 2D où vous allez apprendre à utiliser **Photoshop** & **Illustrator**, ou en 3D où vous apprendrez **Maya**, le cours de Création de pages Web va vous amener à utiliser certains outils.  
+Comme en Design Graphique où vous allez apprendre à utiliser **Photoshop** & **Illustrator**, ou en 3D où vous apprendrez **Maya**, le cours de Création de pages Web va vous amener à utiliser certains outils.  
 
 Sauf indication contraire, tous les outils listés ci-dessous sont gratuits.
 
 
 ## Éditeurs de texte
 
-Pour coder vos premiers sites web, vous allez avoir besoin d’un éditeur de texte.
+Pour coder vos premiers sites web, vous allez avoir besoin d’un éditeur de texte ou d’un éditeur de code.
 
-Vous avez peut-être déjà entendu parler de programmes *WYSIWYG* (*« What you see is what you get »*) d’aide au développement de site web, comme **Dreamweaver**. Ces outils ne vous donnent pas assez de contrôle sur le code, ce qui n’est pas du tout le but de votre formation.
+Dans le cadre du démarrage de votre formation, nous vous conseillons de choisir [Sublime Text](https://www.sublimetext.com).
 
-L’**éditeur de texte** est au _travailleur du web_ ce que le couteau Suisse est à MacGyver.  
+Soyez toutefois attentif au fait que, **si vous choisissez un autre éditeur, vos professeurs ne sont pas là pour passer du temps à en résoudre les éventuels problèmes que vous rencontreriez avec ce dernier**.
 
-Et comme le couteau Suisse, l’éditeur de texte peut être très simple, mais aussi avoir plein d’outils adaptés pour faciliter la résolution des petits problèmes de notre quotidien.
+Après quelque temps, vos besoins grandiront et vous souhaiterez peut-être vous orienter vers un environnement de développement intégré (IDE) un type d’outil de développement qui rassemble un éditeur de texte avec un tas d‘autres outils, ce qui vous évite de devoir jongler entre divers logiciels. Si votre préférence va dans ce sens, les plus utilisés dans le Web actuellement sont : 
 
-Il existe des centaines d’éditeurs de texte : payants, gratuits, multiplateforme ou non, minimalistes, jolis, moches, tout le monde peut y trouver son compte.  
+* [Visual Studio Code](https://code.visualstudio.com) ;
+* [PhpStorm](https://www.jetbrains.com/phpstorm/) qui sera l’éditeur de prédilection pour les cours de l’orientation Web en Bac 2.
 
-Dans le cadre du démarrage de votre formation, nous vous conseillons de choisir [Sublime Text](http://www.sublimetext.com).
-
-Soyez toutefois attentif au fait que, si vous choisissez un autre éditeur, vos professeurs ne sont pas là pour passer du temps à en résoudre les éventuels problèmes.
-
-Après quelques temps, vos besoins grandiront et vous souhaiterez peut-être vous orienter vers un environnement de développement intégré (IDE) un type d’outil de développement qui rassemble un éditeur de texte avec un tas d‘autres outils, ce qui vous évite de devoir jongler entre divers logiciels. Si votre préférence va dans ce sens, les plus utilisés dans le Web actuellement sont : 
-
-* [Visual Studio Code](https://code.visualstudio.com) (gratuit), qui est plus récent, et qui peut être personnalisé à souhait. Comme le montre ce tutoriel proposé par [Frontend Masters Courses](https://frontendmasters.com/courses/visual-studio-code/) ;
-* [PhpStorm](https://www.jetbrains.com/phpstorm/). Celui-ci est payant, mais vous est accessible gratuitement via une licence étudiant. Ce sera l’éditeur de prédilection pour les cours de l’orientation Web en Bac 2.
-
-Notez que Jetbrains, la société qui édite PHPStorm (entre autres), a annoncé la disponibilité prochaine d‘un éditeur de code léger qui risque de bousculer le paysage, Fleet. À ce jour, seuls quelques développeurs y ont accès en version beta.
-
-Tous ces outils embarquent généralement un système de plugins qui permettent d’étendre leurs capacités. 
+Ces outils peuvent être enrichis grâce à des extensions (plugins). 
 
 ### Sublime Text
 
@@ -52,15 +42,13 @@ Tous ces outils embarquent généralement un système de plugins qui permettent 
 
 Sublime Text est payant, mais il bénéficie d’un mode démo d’une durée illimitée, qui vous interrompt de temps à autre.
 
-C’est un éditeur léger et rapide, autant avec les petits fichiers que les très, très gros fichiers (il encaisse des millions de lignes sans broncher). Grâce à un système de packages ajouté par la communauté, les capacités de Sublime Text peuvent être augmentées et le rendre encore plus polyvalent.
+C’est un éditeur léger et très performant. Grâce à un système de packages ajouté par la communauté, les capacités de Sublime Text peuvent être augmentées et le rendre encore plus polyvalent.
 
-#### Extensions Sublime Text
+#### Extensions Sublime Text (Packages)
 
-La première extension que vous devez installer préalablement est **Package Control**. Comme son nom l’indique, il permet d’installer d’autres packages par la suite.
+La première extension que vous devez activer est **Package Control**. Comme son nom l’indique, il permet d’installer d’autres packages par la suite.
 
-Dans le cadre du cours de première année, vous n’aurez pas besoin de beaucoup de packages supplémentaires. Cependant, voici une liste des packages qui pourront vous être utiles.
-
-Le tableau suivant liste les packages _recommandés_ et _conseillés_ pour Sublime Text.
+Dans le cadre du cours de première année, vous n’aurez pas besoin de beaucoup de packages supplémentaires. Cependant, voici une liste des packages qui pourront vous être utiles et que nous vous recommandons.
 
 > Pour installer un package, il vous suffit d’utiliser la commande **Install Package**.
 
@@ -79,14 +67,14 @@ Pour une aide plus détaillée à l’installation et la configuration de Sublim
 
 * [Sublime Blog](https://www.sublimetext.com/blog/)
 * [Sublime Text Mastery - ⚠️ 2015](https://laracasts.com/series/sublime-text-mastery)
-* [Sublime Text Bookmarks - ⚠️ 2020](https://github.com/dreikanter/sublime-bookmarks)
+* [Sublime Text Bookmarks](https://github.com/dreikanter/sublime-bookmarks)
 
 
 ## Navigateurs web
 
-Le navigateur web (ou _browser_), c’est déjà votre copain. Vous l’utilisez tous les jours. Vous avez votre préféré, vous l’avez même peut-être un peu _customisé_.  
+Quand vous allez voir des pages web, vous allez utiliser un navigateur web. Vous en connaissez déjà quelques-uns, comme **Google Chrome**, **Mozilla Firefox**, **Safari**, **Brave**, **Arc** ou encore **Microsoft Edge**.  
 
-Mais en tant que concepteur web, lors du *développement* d’un site web, vous devrez faire en sorte que celui-ci soit compatible avec les navigateurs les plus répandus sur le marché, c.-à-d. vous assurer qu’il s’affiche de la même manière sur **le plus de navigateurs possible** (chacun a sa préférence, et vous _voulez_ que votre site soit vu _partout_, par _tout le monde_).
+En tant que concepteur web, lors du *développement* d’un site web, vous devrez faire en sorte que celui-ci soit compatible avec les navigateurs les plus répandus sur le marché, c.-à-d. vous assurer qu’il s’affiche comme vous le souhaitez sur **le plus de navigateurs possible** (chacun a sa préférence, et vous _voulez_ que votre site soit vu _partout_, par _tout le monde_).
 
 Nous allons classer les navigateurs en deux catégories : les [**navigateurs de travail**](#navigateurs-de-travail) et les [**navigateurs de test**](#navigateurs-de-test).  
 
@@ -98,7 +86,7 @@ Les seconds sont ceux sur lesquels il est **recommandé** de faire des tests ava
 
 ### Navigateurs de travail
 
-Notre navigateur principal sera [Mozilla Firefox](https://www.mozilla.org/fr/firefox/new/) ou [Google Chrome](https://www.google.com/chrome/).
+Notre navigateur principal sera [Mozilla Firefox]( https://www.mozilla.org/fr/firefox/new/) ou [Google Chrome](https://www.google.com/chrome/).
 
 #### MOZILLA FIREFOX
 
@@ -159,7 +147,6 @@ Lors du premier semestre de cours, il ne sera pas nécessaire d’avoir d’autr
 ### Navigateurs de test
 
 > **Note importante :** certains navigateurs ne sont pas disponibles sur toutes les plateformes. Pour pouvoir malgré tout faire des tests, il existe des outils comme [BrowserStack](https://www.browserstack.com), qui le font à votre place.
-> Concernant les navigateurs _Edge_ et _Internet Explorer 8, 9, 10 & 11_, Microsoft met à disposition des outils de test sur le site [modern.ie](https://modern.ie/fr-fr). Grâce à ce site, il devient maintenant très simple de tester ses créations sur différentes versions d’Internet Explorer.
 
 #### GOOGLE CHROME (ou son alternative libre, [CHROMIUM](https://download-chromium.appspot.com/))
 
@@ -221,41 +208,6 @@ Lors du premier semestre de cours, il ne sera pas nécessaire d’avoir d’autr
 
 **Éditeur :** Opera Software  
 
-#### MICROSOFT INTERNET EXPLORER 11
-
-**Site :** [support.microsoft.com](https://support.microsoft.com/en-us/help/18520/download-internet-explorer-11-offline-installer)
-
-**Plateformes :** Windows 7, Windows 8, Windows 10
-
-**Moteur de rendu :** Trident
-
-**Sources :** Fermées
-
-**Éditeur :** Microsoft  
-
-#### MICROSOFT INTERNET EXPLORER 10
-
-**Site :** N/A
-
-**Plateformes :** Windows 7, Windows 8
-
-**Moteur de rendu :** Trident
-
-**Sources :** Fermées
-
-**Éditeur :** Microsoft  
-
-#### MICROSOFT INTERNET EXPLORER 9
-
-**Site :** N/A
-
-**Plateformes :** Windows Vista, Windows 7
-
-**Moteur de rendu :** Trident
-
-**Sources :** Fermées
-
-**Éditeur :** Microsoft
 
 * * *
 
@@ -286,7 +238,7 @@ https://validator.schema.org/
 
 #### CSS
 
-_TODO_
+La référence pour le langage CSS est également la [MDN Web Docs](https://developer.mozilla.org/fr/). Pour le langage CSS, il s’agit de la [référence des propriétés CSS](https://developer.mozilla.org/fr/docs/Web/CSS/Reference).
 
 ### Documentation hors ligne
 
@@ -316,20 +268,38 @@ Il existe deux applications super utiles pour télécharger et consulter de la d
 
 **Éditeur :** Oleg Shparber & contributeurs
 
+#### Devdocs
+
+**Site :** [devdocs.io](https://devdocs.io)
+
+**Plateformes :** Web
+
+**Prix :** Gratuit
+
+**Sources :** Ouvertes
+
+**Éditeur :** Thibaut Courouble
+
 En version papier, les références sont publiées aux Éditions O’Reilly.
 
 #### HTML
 
 **Titre :** [HTML5 Pocket Reference, 5th Edition](https://www.oreilly.com/library/view/html5-pocket-reference/9781449368777/)
+
 **Auteur :** Jennifer Robbins
+
 **ISBN :** 9781449363352
+
 **Prix :** ± 17 €  
 
 #### CSS
 
 **Titre :** [CSS Pocket Reference, 5th Edition](https://www.oreilly.com/library/view/css-pocket-reference/9781492033387/)
+
 **Auteur :** Eric A. Meyer
+
 **ISBN :** 9781492033394
+
 **Prix :** ± 15 €  
 
 * * *
