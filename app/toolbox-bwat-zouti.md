@@ -108,6 +108,14 @@ Pour installer une extension, rendez-vous dans le menu `Outils`, puis `Modules c
 
 Utilisez le petit moteur de recherche pour installer les extensions suivantes (ou ajoutez-les via le bouton `Add to Firefox` en ouvrant dans Firefox le lien direct sur le site de Mozilla indiqué ici entre parenthèses) : 
 
+> ⚠️ **Important : accès aux fichiers locaux requis**
+>
+> Pour que ces extensions fonctionnent également sur vos fichiers stockés en local sur votre machine, vous devez impérativement leur donner l'accès aux fichiers locaux.
+>
+> Dans les options de l'extension, cherchez l'option **« Autoriser l'accès aux URL de fichier »** et cochez-la.
+>
+> Sans cette autorisation, vous ne pourrez pas utiliser ces extensions avec vos fichiers `.html`.
+
 | Nom        |  Auteur        |Description       | Intérêt       |
 | ---------- | ---------- |----------------- |:-------------:|
 | HeadingsMap ([lien](https://addons.mozilla.org/fr/firefox/addon/headingsmap/)) | Rumoroso        | Affiche les outlines (structure des titres) d’un document HTML | **recommandé** |
